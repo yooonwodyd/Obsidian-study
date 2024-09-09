@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "3a008df3588860df",
+    "type": "split",
+    "children": [
+      {
+        "id": "e37754f389b5df63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a28bd1dc31d09175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "121a9783afbaf38b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e498c257841f4134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "140a1dce29e540ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "de01f2f1655deedb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed8de0a5f564a53c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23cc31501af9010d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71c3aa7ce476c718",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b284abfb00543c0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd9eac46e144ac41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08970d2eb164ee74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "무제 파일.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fcc3d952a668f8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "무제 파일.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51c320f686302f0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b899c4c939753a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "무제 파일.md"
+              }
+            }
+          },
+          {
+            "id": "eef675b4b87b7316",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e498c257841f4134",
+  "lastOpenFiles": [
+    "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
+    "무제 파일.md",
+    "private",
+    "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
+    "study/ㄱ-정리된 것/블로그/무제 파일.md",
+    "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
+    "study/ㄱ-정리된 것/블로그/다시 정리하는 ORM.md",
+    "study/ㄱ-정리된 것/객체지향/객체지향의 사실과 오해.md",
+    "auto commit test.md",
+    "study/ㄱ-정리된 것/SQL/SQL 옵티마이저 - 1.md",
+    "study/ㄱ-정리된 것/SQL",
+    "study/ㄱ-정리된 것/객체지향",
+    "study/ㄱ-정리된 것/블로그",
+    "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
+    "study/ㄱ-정리된 것/기본 CS/기본 CS 모음.md",
+    "study/ㄱ-정리된 것/기본 CS",
+    "study/ㄱ-정리된 것/알고리즘",
+    "study/ㄱ-정리된 것/자바 정리/Enum.md",
+    "study/ㄱ-정리된 것/자바 정리",
+    "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
+    "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
+    "study/ㄱ-정리된 것/JVM 정리/내가 JVM을 공부하는 이유..md",
+    "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
+    "study/ㄱ-정리된 것/JVM 정리",
+    "study/ㄱ-정리된 것/스프링",
+    "study/ㄱ-정리된 것",
+    "Welcome.md"
+  ]
+}
