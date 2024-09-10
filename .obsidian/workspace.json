@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e37754f389b5df63",
+        "id": "2b7261c724600847",
         "type": "tabs",
         "children": [
           {
-            "id": "121a9783afbaf38b",
+            "id": "7fd70fb94292ace0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/유통관리/1,2장.md",
+                "file": "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/유통관리/1,2장.md",
+                "file": "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/유통관리/1,2장.md",
+                "file": "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/유통관리/1,2장.md"
+                "file": "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md"
               }
             }
           },
@@ -164,10 +164,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "121a9783afbaf38b",
+  "active": "7fd70fb94292ace0",
   "lastOpenFiles": [
-    "auto commit test.md",
+    "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
+    "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
+    "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
+    "study/ㄱ-정리된 것/블로그/무제 파일.md",
+    "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
+    "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
+    "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
+    "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
+    "study/ㄱ-정리된 것/JVM 정리/내가 JVM을 공부하는 이유..md",
+    "study/ㄱ-정리된 것/스프링/DelegatingFilterProxy와 FilterChainProxy.md",
+    "screenshot/스크린샷 2024-09-10 오후 1.30.27.png",
+    "screenshot/스크린샷 2024-09-10 오후 1.30.06.png",
+    "screenshot/스크린샷 2024-09-10 오후 1.29.43.png",
+    "private/글로벌 경영.md",
     "private/유통관리/1,2장.md",
+    "auto commit test.md",
     "private/유통관리",
     "screenshot/스크린샷 2024-09-09 오후 6.05.47.png",
     "스크린샷 2024-09-09 오후 6.04.29.png",
@@ -175,13 +189,8 @@
     "screenshot",
     "private/auto commit?.md",
     "Welcome.md",
-    "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
     "무제 파일.md",
     "private",
-    "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
-    "study/ㄱ-정리된 것/블로그/무제 파일.md",
-    "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
-    "study/ㄱ-정리된 것/블로그/다시 정리하는 ORM.md",
     "study/ㄱ-정리된 것/객체지향/객체지향의 사실과 오해.md",
     "study/ㄱ-정리된 것/SQL/SQL 옵티마이저 - 1.md",
     "study/ㄱ-정리된 것/SQL",
@@ -193,10 +202,6 @@
     "study/ㄱ-정리된 것/알고리즘",
     "study/ㄱ-정리된 것/자바 정리/Enum.md",
     "study/ㄱ-정리된 것/자바 정리",
-    "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
-    "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
-    "study/ㄱ-정리된 것/JVM 정리/내가 JVM을 공부하는 이유..md",
-    "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
     "study/ㄱ-정리된 것/JVM 정리"
   ]
 }
