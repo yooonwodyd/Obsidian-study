@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "auto commit test.md",
+                "file": "private/유통관리/2장.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "auto commit test.md",
+                "file": "private/유통관리/2장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "auto commit test.md",
+                "file": "private/유통관리/2장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "auto commit test.md"
+                "file": "private/유통관리/2장.md"
               }
             }
           },
@@ -166,9 +166,11 @@
   },
   "active": "121a9783afbaf38b",
   "lastOpenFiles": [
+    "auto commit test.md",
+    "private/유통관리/2장.md",
+    "private/유통관리",
     "screenshot/스크린샷 2024-09-09 오후 6.05.47.png",
     "스크린샷 2024-09-09 오후 6.04.29.png",
-    "auto commit test.md",
     "스크린샷 2024-09-09 오후 6.04.01.png",
     "screenshot",
     "private/auto commit?.md",
@@ -195,7 +197,6 @@
     "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
     "study/ㄱ-정리된 것/JVM 정리/내가 JVM을 공부하는 이유..md",
     "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
-    "study/ㄱ-정리된 것/JVM 정리",
-    "study/ㄱ-정리된 것/스프링"
+    "study/ㄱ-정리된 것/JVM 정리"
   ]
 }
