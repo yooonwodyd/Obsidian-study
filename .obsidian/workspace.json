@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/유통관리/2장.md",
+                "file": "private/유통관리/1,2장.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/유통관리/2장.md",
+                "file": "private/유통관리/1,2장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/유통관리/2장.md",
+                "file": "private/유통관리/1,2장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/유통관리/2장.md"
+                "file": "private/유통관리/1,2장.md"
               }
             }
           },
@@ -167,7 +167,7 @@
   "active": "121a9783afbaf38b",
   "lastOpenFiles": [
     "auto commit test.md",
-    "private/유통관리/2장.md",
+    "private/유통관리/1,2장.md",
     "private/유통관리",
     "screenshot/스크린샷 2024-09-09 오후 6.05.47.png",
     "스크린샷 2024-09-09 오후 6.04.29.png",
