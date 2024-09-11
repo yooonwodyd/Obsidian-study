@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/경영조직론.md",
+                "file": "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/경영조직론.md",
+                "file": "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/경영조직론.md",
+                "file": "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/경영조직론.md"
+                "file": "study/ㄱ-정리된 것/기본 CS/자료구조-2.md"
               }
             }
           },
@@ -166,18 +166,20 @@
   },
   "active": "7fd70fb94292ace0",
   "lastOpenFiles": [
-    "auto commit test.md",
+    "study/ㄱ-정리된 것/기본 CS/기본 CS 모음.md",
+    "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
+    "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
+    "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
+    "study/ㄱ-정리된 것/JVM 정리/내가 JVM을 공부하는 이유..md",
+    "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
     "private/경영조직론.md",
+    "auto commit test.md",
     "2024-09-11.md",
     "study/ㄱ-정리된 것/블로그/무제 파일.md",
     "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
     "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
     "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
     "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
-    "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
-    "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
-    "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
-    "study/ㄱ-정리된 것/JVM 정리/내가 JVM을 공부하는 이유..md",
     "study/ㄱ-정리된 것/스프링/DelegatingFilterProxy와 FilterChainProxy.md",
     "screenshot/스크린샷 2024-09-10 오후 1.30.27.png",
     "screenshot/스크린샷 2024-09-10 오후 1.30.06.png",
@@ -199,7 +201,6 @@
     "study/ㄱ-정리된 것/객체지향",
     "study/ㄱ-정리된 것/블로그",
     "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
-    "study/ㄱ-정리된 것/기본 CS/기본 CS 모음.md",
     "study/ㄱ-정리된 것/기본 CS",
     "study/ㄱ-정리된 것/알고리즘",
     "study/ㄱ-정리된 것/자바 정리/Enum.md",
