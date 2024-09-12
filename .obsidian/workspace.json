@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
+                "file": "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
+                "file": "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
+                "file": "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/기본 CS/자료구조-2.md"
+                "file": "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "7fd70fb94292ace0",
   "lastOpenFiles": [
+    "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
+    "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "study/ㄱ-정리된 것/기본 CS/기본 CS 모음.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
     "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
@@ -200,7 +202,6 @@
     "study/ㄱ-정리된 것/SQL",
     "study/ㄱ-정리된 것/객체지향",
     "study/ㄱ-정리된 것/블로그",
-    "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
     "study/ㄱ-정리된 것/기본 CS",
     "study/ㄱ-정리된 것/알고리즘",
     "study/ㄱ-정리된 것/자바 정리/Enum.md",
