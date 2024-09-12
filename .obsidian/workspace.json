@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0168e26f508ec69f",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "caad5ebf23a7625e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/유통관리/1,2장.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
+                "file": "private/유통관리/1,2장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
+                "file": "private/유통관리/1,2장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md"
+                "file": "private/유통관리/1,2장.md"
               }
             }
           },
@@ -161,13 +182,20 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7fd70fb94292ace0",
+  "active": "caad5ebf23a7625e",
   "lastOpenFiles": [
-    "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
+    "private/calendar/2024-09-26 유통관리 팀편성.md",
+    "private/calendar/2024-09-19 유통관리 비대면.md",
+    "private/calendar/2024-09-17 유통관리 비대면.md",
+    "private/calendar/2024-09-12 testt.md",
+    "private/calendar",
+    "private/calendar/2024-09-12 test.md",
+    "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
     "study/ㄱ-정리된 것/기본 CS/기본 CS 모음.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
     "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
@@ -195,17 +223,12 @@
     "screenshot",
     "private/auto commit?.md",
     "Welcome.md",
-    "무제 파일.md",
     "private",
-    "study/ㄱ-정리된 것/객체지향/객체지향의 사실과 오해.md",
-    "study/ㄱ-정리된 것/SQL/SQL 옵티마이저 - 1.md",
     "study/ㄱ-정리된 것/SQL",
     "study/ㄱ-정리된 것/객체지향",
     "study/ㄱ-정리된 것/블로그",
     "study/ㄱ-정리된 것/기본 CS",
     "study/ㄱ-정리된 것/알고리즘",
-    "study/ㄱ-정리된 것/자바 정리/Enum.md",
-    "study/ㄱ-정리된 것/자바 정리",
-    "study/ㄱ-정리된 것/JVM 정리"
+    "study/ㄱ-정리된 것/자바 정리"
   ]
 }
