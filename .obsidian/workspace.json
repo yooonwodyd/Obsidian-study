@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/글로벌 경영.md",
+                "file": "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/글로벌 경영.md",
+                "file": "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/글로벌 경영.md"
+                "file": "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md"
               }
             }
           },
@@ -186,8 +185,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0168e26f508ec69f",
+  "active": "7fd70fb94292ace0",
   "lastOpenFiles": [
+    "private/글로벌 경영.md",
     "private/calendar/2024-09-16 카테캠 정기 회의.md",
     "private/유통관리/1,2장.md",
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
@@ -216,7 +216,6 @@
     "screenshot/스크린샷 2024-09-10 오후 1.30.27.png",
     "screenshot/스크린샷 2024-09-10 오후 1.30.06.png",
     "screenshot/스크린샷 2024-09-10 오후 1.29.43.png",
-    "private/글로벌 경영.md",
     "private/유통관리",
     "screenshot/스크린샷 2024-09-09 오후 6.05.47.png",
     "스크린샷 2024-09-09 오후 6.04.29.png",
