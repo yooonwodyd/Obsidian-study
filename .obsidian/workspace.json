@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,8 +186,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "caad5ebf23a7625e",
+  "active": "0168e26f508ec69f",
   "lastOpenFiles": [
+    "private/calendar/2024-09-16 카테캠 정기 회의.md",
     "private/유통관리/1,2장.md",
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "private/calendar/2024-09-26 유통관리 팀편성.md",
@@ -222,7 +223,6 @@
     "스크린샷 2024-09-09 오후 6.04.01.png",
     "screenshot",
     "private/auto commit?.md",
-    "Welcome.md",
     "private",
     "study/ㄱ-정리된 것/SQL",
     "study/ㄱ-정리된 것/객체지향",
