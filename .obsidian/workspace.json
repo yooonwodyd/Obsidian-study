@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/스프링 웹 MVC에 대해.md",
+                "file": "private/운영관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/스프링 웹 MVC에 대해.md",
+                "file": "private/운영관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/스프링 웹 MVC에 대해.md",
+                "file": "private/운영관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/스프링 웹 MVC에 대해.md"
+                "file": "private/운영관리.md"
               }
             }
           },
@@ -210,11 +210,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a6dce8f874da8e33",
+  "active": "0168e26f508ec69f",
   "lastOpenFiles": [
-    "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
-    "study/ㄱ-정리된 것/블로그/스프링 웹 MVC에 대해.md",
+    "private/calendar/2024-09-30 카테캠 정기 회의 10시.md",
+    "private/경영조직론.md",
+    "private/운영관리.md",
+    "private/경영과학.md",
+    "private/유통관리/1,2장.md",
     "private/글로벌 경영.md",
+    "study/ㄱ-정리된 것/블로그/스프링 웹 MVC에 대해.md",
+    "screenshot/스크린샷 2024-09-22 오후 9.54.58.png",
+    "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
     "private/calendar/2024-10-05 해달 MT.md",
     "private/calendar/2024-10-05 goekf dpaxl.md",
     "private/calendar/2024-09-25 GDSC.md",
@@ -223,9 +229,8 @@
     "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
     "private/calendar/2024-09-26 예비군.md",
     "private/calendar/2024-09-22 카테캠 코드 만들기.md",
-    "private/calendar/2024-09-23 카테캠 정기 회의.md",
+    "private/calendar/2024-09-23 카테캠 정기 회의 10시.md",
     "private/calendar/2024-09-16 카테캠 정기 회의.md",
-    "private/유통관리/1,2장.md",
     "private/calendar/2024-09-26 유통관리 팀편성.md",
     "private/calendar/2024-09-19 유통관리 비대면.md",
     "private/calendar/2024-09-17 유통관리 비대면.md",
@@ -235,10 +240,6 @@
     "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
     "study/ㄱ-정리된 것/기본 CS/기본 CS 모음.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
-    "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
-    "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
-    "study/ㄱ-정리된 것/JVM 정리/내가 JVM을 공부하는 이유..md",
-    "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
     "screenshot/스크린샷 2024-09-10 오후 1.30.27.png",
     "screenshot/스크린샷 2024-09-10 오후 1.30.06.png",
     "screenshot/스크린샷 2024-09-10 오후 1.29.43.png",
