@@ -27,16 +27,28 @@ MVC는 Model, View , Controller를 의미한다.
 스프링 없이 순수 자바로 MVC 패턴을 구현해보면, 난감한 점이 많다.
 Model,View,Controller 객체를 만들다보면 서로 너무 강하게 결합되고 재사용성이 떨어진다는 느낌을 강하게 받는다. 이 과정에서 자연스럽게 frontcontroller 패턴을 적용할 필요성을 느끼게 되는데, 스프링MVC를 사용할 때는 이러한 고민거리가 없다.
 
-그 이유는 내부적으로 이미 frontcontroller에 해당하는 코드가 구현되어있기 때문인데, 그 부분이 바로 DispatcherServlet이다. ㄷ
+그 이유는 내부적으로 이미 frontcontroller에 해당하는 코드가 구현되어있기 때문인데, 그 부분이 바로 DispatcherServlet이다.
 
 
-### FrontController패턴에 대해
-## DispatcherServlet과 톰켓에 대해
-스프링 MVC가 어떻게 동작하는지 알고 난 뒤에도 의문점이 남아있다.
-바로 톰켓하고의 관련성이다.
 
-톰켓은 웹서버이면서 WAS이다. 따라서 톰켓은 우리가 만든 컨트롤러르
+## 번외. DispatcherServlet과 톰켓에 대해
+스프링부트만 사용해서 내장톰켓에 익숙하다면 톰켓과 DispatcherSevlet의 관련성을 놓치기 쉽다.
+톰켓은 웹서버이면서 WAS이다. 따라서 톰켓은 우리가 만든 컨트롤러를 알아야지만 적절한 응답을 줄 수 있다.
 
-스프링부트는 내장 톰켓을 가지고있다.
+하지만 DispathcerSevlet은 톰켓에서 생성된다. 이를 위해 스프링의 DispatcherSevlet을 톰켓에 등록해주는 작업이 필요할 것이다.
+
+톰켓이 순수한 자바코드로 대체되기 전으로 예를 들자면 web.xml에*org.springframework.web.servlet.DispatcherServlet*을 서블렛으로 등록해주는 것과 같은 작업이 이에 해당한다.
+
+추가로, 톰켓이 생성한 DispatcherServlet에는  스프링 컨테이너에서 관리하고 있는 컨트롤러에 접근하기 위해서 스프링이 관리하는 컨텍스트 영역에 접근할 수 있어야한다.
+
+이는 DispatcherServlet이 생성될때 초기화 작업에서 찾을 수 있다.
+DispatcherServlet이 상속하고 있는 FramworkServlet을 먼저 확인해보자.
+![[스크린샷 2024-09-23 오후 2.26.15.png]]
+
+아래의 코드는 FramworkServlet의 일부이다.
 
 
+![[스크린샷 2024-09-23 오후 2.27.05.png]]
+if (cwac.getParent() == null)에서 확인할 수 있듯이, rootApplicationContext를 서블릿 컨텍스트의 부모로 설정함으로서 RootApplicationContext(애플리케이션 전체에서 공유되는 전역적인 컨텍스트)에 내용에 접근할 수 있다.
+
+이런 작업은 SprintSecurity의 Filter에서도 동일한 양상을 보이는데, 알아두면 좋을 것 같아 번외글을 남긴다.
