@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,8 +222,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5154bba774c61906",
+  "active": "0168e26f508ec69f",
   "lastOpenFiles": [
+    "private/calendar/2024-09-28 카테캠 9조 멘토링 .md",
+    "screenshot/스크린샷 2024-09-23 오전 10.04.15.png",
+    "screenshot/스크린샷 2024-09-23 오전 9.57.34.png",
     "private/calendar/2024-11-05 배포 특강.md",
     "private/calendar/2024-10-22 카테캠 CICD 특강.md",
     "private/운영관리.md",
@@ -250,7 +253,6 @@
     "private/calendar/2024-09-16 카테캠 정기 회의.md",
     "private/calendar/2024-09-26 유통관리 팀편성.md",
     "private/calendar/2024-09-19 유통관리 비대면.md",
-    "private/calendar/2024-09-17 유통관리 비대면.md",
     "private/calendar",
     "screenshot/스크린샷 2024-09-10 오후 1.30.27.png",
     "screenshot/스크린샷 2024-09-10 오후 1.30.06.png",
