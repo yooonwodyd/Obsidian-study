@@ -86,8 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e765bdd6b0d2faad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/글로벌 경영.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/스프링 웹 MVC에 대해.md",
+                "file": "private/글로벌 경영.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/스프링 웹 MVC에 대해.md",
+                "file": "private/글로벌 경영.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/스프링 웹 MVC에 대해.md"
+                "file": "private/글로벌 경영.md"
               }
             }
           },
@@ -233,13 +246,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7fd70fb94292ace0",
+  "active": "e765bdd6b0d2faad",
   "lastOpenFiles": [
+    "private/경영조직론.md",
+    "study/ㄱ-정리된 것/블로그/스프링 웹 MVC에 대해.md",
+    "private/calendar/2024-09-27 GDSC-4시 회의.md",
     "screenshot/스크린샷 2024-09-23 오후 2.27.05.png",
     "screenshot/스크린샷 2024-09-23 오후 2.26.15.png",
     "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
-    "study/ㄱ-정리된 것/블로그/스프링 웹 MVC에 대해.md",
-    "private/경영조직론.md",
     "private/calendar/2024-09-27 카테캠 9조 7시 멘토링.md",
     "screenshot/스크린샷 2024-09-23 오전 10.04.15.png",
     "screenshot/스크린샷 2024-09-23 오전 9.57.34.png",
@@ -256,7 +270,7 @@
     "screenshot/스크린샷 2024-09-22 오후 9.54.58.png",
     "private/calendar/2024-10-05 해달 MT.md",
     "private/calendar/2024-10-05 goekf dpaxl.md",
-    "private/calendar/2024-09-25 GDSC.md",
+    "private/calendar/2024-09-25 GDSC 세미나 7시.md",
     "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
     "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
     "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
@@ -272,7 +286,6 @@
     "private/유통관리",
     "screenshot/스크린샷 2024-09-09 오후 6.05.47.png",
     "스크린샷 2024-09-09 오후 6.04.29.png",
-    "스크린샷 2024-09-09 오후 6.04.01.png",
     "screenshot",
     "private",
     "study/ㄱ-정리된 것/SQL",
