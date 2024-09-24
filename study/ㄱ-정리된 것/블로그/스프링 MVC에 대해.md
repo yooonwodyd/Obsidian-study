@@ -29,6 +29,21 @@ Model,View,Controller 객체를 만들다보면 서로 너무 강하게 결합�
 
 그 이유는 내부적으로 이미 frontcontroller에 해당하는 코드가 구현되어있기 때문인데, 그 부분이 바로 DispatcherServlet이다.
 
+## 스프링 Web MVC 의 전체적인 구조
+
+
+![[스크린샷 2024-09-24 오후 3.35.14.png]]
+
+https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html 에서 제공하는 그림이다.
+
+요청이 들어오면 FrontController(DispatcherServlet)에서 해당 요청을 처리할 컨트롤러를 찾는다.
+이때 컨트롤러마다 반환하는 타입이 다르기 때문에 이를 처리해줄 핸들러 어댑터를 찾는 과정 또한 존재하는데,
+이를 통해 우리가 얻을 수 있는 장점은 다음과 같다.
+
+1. 요청을 받고 처리하는 하나의 서블렛(FrontController)만 사용하면 된다.
+2. 중복되는 코드를 많이 줄일 수 있다. 하나의 컨트롤러를 만들때마다 공통된 작업은 FrontController에서 해결할 수 있다.
+3. 반환하는 Model을 응답에 맞게 변환하는 것 FrontController에서 처리하는 만큼 유연성이 높아진다.
+4. 역할과 책임의 분리가 더 명확하게 되어있다.
 
 
 ## 번외. DispatcherServlet과 톰켓에 대해
