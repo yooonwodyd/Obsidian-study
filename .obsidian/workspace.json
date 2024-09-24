@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
+                "file": "private/경영조직론.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
+                "file": "private/경영조직론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
+                "file": "private/경영조직론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md"
+                "file": "private/경영조직론.md"
               }
             }
           },
@@ -260,10 +260,13 @@
   },
   "active": "5c9b25adb5eda8cc",
   "lastOpenFiles": [
+    "private/경영과학.md",
+    "private/경영조직론.md",
+    "study/ㄱ-정리된 것/블로그/Transaction과 Lock에 대해.md",
+    "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "screenshot/스크린샷 2024-09-24 오후 3.35.14.png",
     "private/글로벌 경영.md",
-    "private/경영조직론.md",
     "private/calendar/2024-09-27 GDSC-4시 회의.md",
     "screenshot/스크린샷 2024-09-23 오후 2.27.05.png",
     "screenshot/스크린샷 2024-09-23 오후 2.26.15.png",
@@ -278,14 +281,12 @@
     "private/calendar/2024-10-06 경영조직론 2차과제.md",
     "private/calendar/2024-10-01 경영조직론 1차 과제.md",
     "private/calendar/2024-09-30 카테캠 정기 회의 10시.md",
-    "private/경영과학.md",
     "private/유통관리/1,2장.md",
     "screenshot/스크린샷 2024-09-22 오후 9.54.58.png",
     "private/calendar/2024-10-05 해달 MT.md",
     "private/calendar/2024-10-05 goekf dpaxl.md",
     "private/calendar/2024-09-25 GDSC 세미나 7시.md",
     "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
-    "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
     "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
     "private/calendar/2024-09-26 예비군.md",
     "private/calendar/2024-09-22 카테캠 코드 만들기.md",
