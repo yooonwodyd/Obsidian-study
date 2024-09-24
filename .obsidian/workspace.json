@@ -98,9 +98,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c9b25adb5eda8cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
+                "file": "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
+                "file": "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md"
+                "file": "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md"
               }
             }
           },
@@ -246,12 +258,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0168e26f508ec69f",
+  "active": "5c9b25adb5eda8cc",
   "lastOpenFiles": [
+    "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "screenshot/스크린샷 2024-09-24 오후 3.35.14.png",
     "private/글로벌 경영.md",
     "private/경영조직론.md",
-    "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "private/calendar/2024-09-27 GDSC-4시 회의.md",
     "screenshot/스크린샷 2024-09-23 오후 2.27.05.png",
     "screenshot/스크린샷 2024-09-23 오후 2.26.15.png",
@@ -285,7 +297,6 @@
     "screenshot/스크린샷 2024-09-10 오후 1.29.43.png",
     "private/유통관리",
     "screenshot/스크린샷 2024-09-09 오후 6.05.47.png",
-    "스크린샷 2024-09-09 오후 6.04.29.png",
     "screenshot",
     "private",
     "study/ㄱ-정리된 것/SQL",
