@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,8 +282,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5b4b31f09dd03886",
+  "active": "0168e26f508ec69f",
   "lastOpenFiles": [
+    "private/calendar/2024-09-26 오후 8시 30분.md",
     "study/ㄱ-정리된 것/기본 CS/기본 CS 모음.md",
     "private/과제/경영조직론 과제 1.md",
     "private/calendar/2024-09-25 카테캠 코드 작성.md",
@@ -316,7 +317,6 @@
     "private/calendar/2024-10-05 해달 MT.md",
     "private/calendar/2024-10-05 goekf dpaxl.md",
     "private/calendar/2024-09-25 GDSC 세미나 7시.md",
-    "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
     "private/calendar",
     "screenshot/스크린샷 2024-09-10 오후 1.30.27.png",
     "screenshot/스크린샷 2024-09-10 오후 1.30.06.png",
