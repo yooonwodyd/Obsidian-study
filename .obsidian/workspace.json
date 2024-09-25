@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,12 +270,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d2287d694dd6b23a",
+  "active": "0168e26f508ec69f",
   "lastOpenFiles": [
+    "private/calendar/2024-09-25 카테캠 코드 작성.md",
+    "private/calendar/2024-09-29 창석이형 .md",
     "private/경영조직론.md",
     "private/과제/경영조직론 과제 1.md",
     "private/과제",
-    "private/calendar/2024-09-28 GDSC 코어 회의 오후 5시.md",
+    "private/calendar/2024-09-28 GDSC 코어 회의 오후 2시.md",
     "private/경영과학.md",
     "study/ㄱ-정리된 것/블로그/Transaction과 Lock에 대해.md",
     "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
@@ -303,8 +305,6 @@
     "private/calendar/2024-09-25 GDSC 세미나 7시.md",
     "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
     "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
-    "private/calendar/2024-09-26 예비군.md",
-    "private/calendar/2024-09-22 카테캠 코드 만들기.md",
     "private/calendar",
     "screenshot/스크린샷 2024-09-10 오후 1.30.27.png",
     "screenshot/스크린샷 2024-09-10 오후 1.30.06.png",
