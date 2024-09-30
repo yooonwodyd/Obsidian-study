@@ -177,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/ㄱ-정리된 것/스프링/JPA 기본키 생성 전략.md",
+                "file": "study/ㄱ-정리된 것/알고리즘/다익스트라.md",
                 "mode": "source",
                 "source": false
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/스프링/JPA 기본키 생성 전략.md",
+                "file": "study/ㄱ-정리된 것/알고리즘/다익스트라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/스프링/JPA 기본키 생성 전략.md",
+                "file": "study/ㄱ-정리된 것/알고리즘/다익스트라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/스프링/JPA 기본키 생성 전략.md"
+                "file": "study/ㄱ-정리된 것/알고리즘/다익스트라.md"
               }
             }
           },
@@ -332,8 +332,10 @@
   },
   "active": "49b7065bbac5561c",
   "lastOpenFiles": [
-    "private/운영관리.md",
     "study/ㄱ-정리된 것/스프링/JPA 기본키 생성 전략.md",
+    "study/ㄱ-정리된 것/알고리즘/다익스트라.md",
+    "study/ㄱ-정리된 것/무제 폴더",
+    "private/운영관리.md",
     "private/글로벌 경영.md",
     "private/경영조직론.md",
     "private/과제/경영조직론 과제 1.md",
@@ -363,7 +365,6 @@
     "private/calendar/2024-10-22 카테캠 CICD 특강.md",
     "private/calendar/2024-10-20 경영조직론 3차 과제.md",
     "private/calendar/2024-10-06 경영조직론 2차과제.md",
-    "private/calendar/2024-10-01 경영조직론 1차 과제.md",
     "screenshot/스크린샷 2024-09-22 오후 9.54.58.png",
     "private/calendar",
     "screenshot/스크린샷 2024-09-10 오후 1.30.27.png",
@@ -376,7 +377,6 @@
     "study/ㄱ-정리된 것/SQL",
     "study/ㄱ-정리된 것/객체지향",
     "study/ㄱ-정리된 것/블로그",
-    "study/ㄱ-정리된 것/기본 CS",
-    "study/ㄱ-정리된 것/알고리즘"
+    "study/ㄱ-정리된 것/기본 CS"
   ]
 }
