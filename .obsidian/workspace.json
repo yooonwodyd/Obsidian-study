@@ -170,9 +170,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49b7065bbac5561c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/ㄱ-정리된 것/스프링/JPA 기본키 생성 전략.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -238,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/경영조직론.md",
+                "file": "study/ㄱ-정리된 것/스프링/JPA 기본키 생성 전략.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/경영조직론.md",
+                "file": "study/ㄱ-정리된 것/스프링/JPA 기본키 생성 전략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/경영조직론.md"
+                "file": "study/ㄱ-정리된 것/스프링/JPA 기본키 생성 전략.md"
               }
             }
           },
@@ -318,10 +330,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0168e26f508ec69f",
+  "active": "49b7065bbac5561c",
   "lastOpenFiles": [
-    "private/과제/경영조직론 과제 1.md",
+    "private/운영관리.md",
+    "study/ㄱ-정리된 것/스프링/JPA 기본키 생성 전략.md",
+    "private/글로벌 경영.md",
     "private/경영조직론.md",
+    "private/과제/경영조직론 과제 1.md",
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "private/유통관리/1,2장.md",
     "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
@@ -337,7 +352,6 @@
     "study/ㄱ-정리된 것/블로그/Transaction과 Lock에 대해.md",
     "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
     "screenshot/스크린샷 2024-09-24 오후 3.35.14.png",
-    "private/글로벌 경영.md",
     "private/calendar/2024-09-27 GDSC-4시 회의.md",
     "screenshot/스크린샷 2024-09-23 오후 2.27.05.png",
     "screenshot/스크린샷 2024-09-23 오후 2.26.15.png",
@@ -347,11 +361,9 @@
     "screenshot/스크린샷 2024-09-23 오전 9.57.34.png",
     "private/calendar/2024-11-05 배포 특강.md",
     "private/calendar/2024-10-22 카테캠 CICD 특강.md",
-    "private/운영관리.md",
     "private/calendar/2024-10-20 경영조직론 3차 과제.md",
     "private/calendar/2024-10-06 경영조직론 2차과제.md",
     "private/calendar/2024-10-01 경영조직론 1차 과제.md",
-    "private/calendar/2024-09-30 카테캠 정기 회의 10시.md",
     "screenshot/스크린샷 2024-09-22 오후 9.54.58.png",
     "private/calendar",
     "screenshot/스크린샷 2024-09-10 오후 1.30.27.png",
