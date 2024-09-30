@@ -165,14 +165,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/과제/경영조직론 과제 1.md",
+                "file": "private/경영조직론.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/과제/경영조직론 과제 1.md",
+                "file": "private/경영조직론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/과제/경영조직론 과제 1.md",
+                "file": "private/경영조직론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/과제/경영조직론 과제 1.md"
+                "file": "private/경영조직론.md"
               }
             }
           },
@@ -318,10 +318,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "70ddaf11f086a053",
+  "active": "0168e26f508ec69f",
   "lastOpenFiles": [
-    "private/경영조직론.md",
     "private/과제/경영조직론 과제 1.md",
+    "private/경영조직론.md",
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "private/유통관리/1,2장.md",
     "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
