@@ -278,7 +278,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -378,7 +379,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d85e1d86d0cd3c51",
+  "active": "23cc31501af9010d",
   "lastOpenFiles": [
     "private/과제/경영조직론 과제 1.md",
     "private/과제/경영조직론 과제 2.md",
