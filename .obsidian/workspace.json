@@ -230,9 +230,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ff0326e59fa9d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/과제/경영조직론 과제 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -278,8 +290,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -379,10 +390,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "23cc31501af9010d",
+  "active": "ed8de0a5f564a53c",
   "lastOpenFiles": [
-    "private/과제/경영조직론 과제 1.md",
+    "private/운영관리.md",
+    "2024-10-04.md",
     "private/과제/경영조직론 과제 2.md",
+    "private/과제/경영조직론 과제 1.md",
     "private/경영조직론.md",
     "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
     "study/ㄱ-정리된 것/스프링/Union Find Algorithm.md",
@@ -393,7 +406,6 @@
     "private/calendar/2024-10-30 gdsc 세미나 윤재용 온라인 발표.md",
     "study/ㄱ-정리된 것/스프링/JPA 기본키 생성 전략.md",
     "study/ㄱ-정리된 것/무제 폴더",
-    "private/운영관리.md",
     "private/글로벌 경영.md",
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "private/유통관리/1,2장.md",
@@ -408,7 +420,6 @@
     "private/calendar/2024-09-28 GDSC 코어 회의 오후 2시.md",
     "private/경영과학.md",
     "study/ㄱ-정리된 것/블로그/Transaction과 Lock에 대해.md",
-    "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
     "screenshot/스크린샷 2024-09-24 오후 3.35.14.png",
     "screenshot/스크린샷 2024-09-23 오후 2.27.05.png",
     "screenshot/스크린샷 2024-09-23 오후 2.26.15.png",
