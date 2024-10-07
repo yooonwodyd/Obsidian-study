@@ -242,9 +242,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1adc5105e4def9ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -310,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/과제/경영조직론 과제 2.md",
+                "file": "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/과제/경영조직론 과제 2.md",
+                "file": "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -350,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/과제/경영조직론 과제 2.md"
+                "file": "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md"
               }
             }
           },
@@ -390,15 +402,22 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d85e1d86d0cd3c51",
+  "active": "1adc5105e4def9ee",
   "lastOpenFiles": [
+    "study/ㄱ-정리된 것/JVM 정리/내가 JVM을 공부하는 이유..md",
+    "study/ㄱ-정리된 것/자바 정리/클래스 로더에 대해.md",
+    "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
+    "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
+    "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
+    "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
+    "private/과제/경영조직론 과제 2.md",
+    "private/calendar/2024-11-09 동환 정민 자전거 여행.md",
     "private/calendar/2024-10-28 운영관리 시험 계산기 지참 필요.md",
     "private/calendar/2024-10-30 경영조직론 보강.md",
     "private/calendar/2024-10-23 경영조직론 수업 없음.md",
     "private/calendar/2024-10-28 경영조직론 시험.md",
     "private/운영관리.md",
     "2024-10-04.md",
-    "private/과제/경영조직론 과제 2.md",
     "private/과제/경영조직론 과제 1.md",
     "private/경영조직론.md",
     "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
@@ -412,13 +431,6 @@
     "study/ㄱ-정리된 것/무제 폴더",
     "private/글로벌 경영.md",
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
-    "private/유통관리/1,2장.md",
-    "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
-    "private/calendar/2024-09-28 점심 형이랑 먹기.md",
-    "private/calendar/2024-10-01 gdsc 챕터 1 화요일 4시 30분 덥콬ㄹ.md",
-    "private/calendar/2024-09-26 오후 8시 30분.md",
-    "study/ㄱ-정리된 것/기본 CS/기본 CS 모음.md",
-    "private/calendar/2024-09-25 카테캠 코드 작성.md",
     "private/과제",
     "screenshot/스크린샷 2024-09-24 오후 3.35.14.png",
     "screenshot/스크린샷 2024-09-23 오후 2.27.05.png",
