@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "screenshot"
+  "attachmentFolderPath": "screenshot",
+  "alwaysUpdateLinks": true
 }

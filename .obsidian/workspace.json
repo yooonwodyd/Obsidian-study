@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/취업 서류/우테코 서류.md",
+                "file": "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md",
                 "mode": "source",
                 "source": false
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/ㄱ-정리된 것/자바 정리/자바 메모리 영역과 메모리 오버플로.md",
+                "file": "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md",
                 "mode": "source",
                 "source": false
               }
@@ -352,7 +352,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/취업 서류/우테코 서류.md",
+                "file": "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -369,7 +369,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/취업 서류/우테코 서류.md",
+                "file": "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -392,7 +392,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/취업 서류/우테코 서류.md"
+                "file": "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md"
               }
             }
           },
@@ -434,18 +434,22 @@
   },
   "active": "7fd70fb94292ace0",
   "lastOpenFiles": [
-    "private/유통관리/1,2장.md",
-    "private/취업 서류/우테코 서류.md",
-    "private/취업 서류",
-    "study/ㄱ-정리된 것/자바 정리/자바 메모리 영역과 메모리 오버플로.md",
-    "private/글로벌 경영.md",
     "무제 파일.canvas",
+    "README.md",
+    "2024-10-04.md",
     "2024-10-08.md",
+    "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md",
+    "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
+    "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
+    "study/ㄱ-정리된 것/블로그/무제 파일.md",
+    "private/calendar/2024-09-16 카테캠 정기 회의.md",
+    "private/취업 서류/우테코 서류.md",
+    "private/유통관리/1,2장.md",
+    "private/취업 서류",
+    "private/글로벌 경영.md",
     "private/calendar/2024-10-04 승범님 모각코.md",
     "private/calendar/2024-10-04 튜터링.md",
     "private/calendar/2024-10-03 튜터링.md",
-    "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
-    "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "private/asdf.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
     "private/calendar/2024-11-02 GDSC 회의.md",
@@ -457,11 +461,6 @@
     "private/calendar/2024-11-09 동환 정민 자전거 여행.md",
     "private/calendar/2024-10-28 운영관리 시험 계산기 지참 필요.md",
     "private/calendar/2024-10-30 경영조직론 보강.md",
-    "private/calendar/2024-10-23 경영조직론 수업 없음.md",
-    "private/calendar/2024-10-28 경영조직론 시험.md",
-    "private/운영관리.md",
-    "2024-10-04.md",
-    "private/과제/경영조직론 과제 1.md",
     "study/ㄱ-정리된 것/무제 폴더",
     "private/과제",
     "screenshot/스크린샷 2024-09-24 오후 3.35.14.png",
