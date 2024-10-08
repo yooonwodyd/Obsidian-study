@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/ㄱ-정리된 것/자바 정리/자바 메모리 영역과 메모리 오버플로.md",
+                "file": "private/취업 서류/우테코 서류.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "bba78d75c436102e",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
             }
           },
           {
@@ -278,9 +270,23 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82ed1351bd8d0a31",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -309,7 +315,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "네이티브",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -326,8 +332,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -347,7 +352,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/자바 정리/자바 메모리 영역과 메모리 오버플로.md",
+                "file": "private/취업 서류/우테코 서류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +369,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/자바 정리/자바 메모리 영역과 메모리 오버플로.md",
+                "file": "private/취업 서류/우테코 서류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -387,7 +392,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/자바 정리/자바 메모리 영역과 메모리 오버플로.md"
+                "file": "private/취업 서류/우테코 서류.md"
               }
             }
           },
@@ -427,8 +432,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "bba78d75c436102e",
+  "active": "7fd70fb94292ace0",
   "lastOpenFiles": [
+    "private/유통관리/1,2장.md",
+    "private/취업 서류/우테코 서류.md",
+    "private/취업 서류",
+    "study/ㄱ-정리된 것/자바 정리/자바 메모리 영역과 메모리 오버플로.md",
+    "private/글로벌 경영.md",
+    "무제 파일.canvas",
+    "2024-10-08.md",
     "private/calendar/2024-10-04 승범님 모각코.md",
     "private/calendar/2024-10-04 튜터링.md",
     "private/calendar/2024-10-03 튜터링.md",
@@ -438,7 +450,6 @@
     "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
     "private/calendar/2024-11-02 GDSC 회의.md",
     "study/ㄱ-정리된 것/JVM 정리/내가 JVM을 공부하는 이유..md",
-    "study/ㄱ-정리된 것/자바 정리/자바 메모리 영역과 메모리 오버플로.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
     "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
     "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
@@ -451,10 +462,6 @@
     "private/운영관리.md",
     "2024-10-04.md",
     "private/과제/경영조직론 과제 1.md",
-    "private/경영조직론.md",
-    "study/ㄱ-정리된 것/스프링/Union Find Algorithm.md",
-    "private/자본시장론.md",
-    "study/ㄱ-정리된 것/알고리즘/다익스트라.md",
     "study/ㄱ-정리된 것/무제 폴더",
     "private/과제",
     "screenshot/스크린샷 2024-09-24 오후 3.35.14.png",
@@ -473,7 +480,6 @@
     "private",
     "study/ㄱ-정리된 것/SQL",
     "study/ㄱ-정리된 것/객체지향",
-    "study/ㄱ-정리된 것/블로그",
-    "study/ㄱ-정리된 것/기본 CS"
+    "study/ㄱ-정리된 것/블로그"
   ]
 }
