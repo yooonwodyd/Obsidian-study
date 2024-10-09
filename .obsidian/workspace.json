@@ -300,7 +300,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
+                "file": "private/취업 서류/우테코 서류.md",
                 "mode": "source",
                 "source": false
               }
@@ -373,7 +373,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
+                "file": "private/취업 서류/우테코 서류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,7 +390,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
+                "file": "private/취업 서류/우테코 서류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -413,7 +413,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md"
+                "file": "private/취업 서류/우테코 서류.md"
               }
             }
           },
@@ -455,9 +455,9 @@
   },
   "active": "ffc33aba708ed972",
   "lastOpenFiles": [
+    "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
     "study/ㄱ - 정리 할 것/DIP.md",
     "study/ㄱ - 정리 할 것",
-    "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
     "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md",
     "private/calendar/2024-10-23 자료구조 시험.md",
     "private/calendar/2024-10-11 기타튜터링.md",
