@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "d847083fddc08ab5",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
             "id": "caad5ebf23a7625e",
             "type": "leaf",
             "state": {
@@ -286,7 +294,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -432,8 +441,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7fd70fb94292ace0",
+  "active": "d847083fddc08ab5",
   "lastOpenFiles": [
+    "private/calendar/2024-10-23 자료구조 시험.md",
+    "private/calendar/2024-10-11 기타튜터링.md",
+    "private/calendar/2024-10-10 기타 튜터링.md",
+    "private/calendar/2024-10-23 경영과학 중간고사(예정).md",
     "screenshot/스크린샷 2024-10-08 오후 7.59.24.png",
     "screenshot/스크린샷 2024-10-08 오후 7.59.10.png",
     "screenshot/스크린샷 2024-10-08 오후 7.58.17.png",
@@ -453,7 +466,7 @@
     "private/유통관리/1,2장.md",
     "private/취업 서류",
     "private/글로벌 경영.md",
-    "private/calendar/2024-10-04 승범님 모각코.md",
+    "private/calendar/2024-10-11 승범님 모각코.md",
     "private/calendar/2024-10-04 튜터링.md",
     "private/calendar/2024-10-03 튜터링.md",
     "private/asdf.md",
@@ -464,16 +477,12 @@
     "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
     "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
     "private/과제/경영조직론 과제 2.md",
-    "private/calendar/2024-11-09 동환 정민 자전거 여행.md",
-    "private/calendar/2024-10-28 운영관리 시험 계산기 지참 필요.md",
-    "private/calendar/2024-10-30 경영조직론 보강.md",
     "study/ㄱ-정리된 것/무제 폴더",
     "private/과제",
     "screenshot/스크린샷 2024-09-24 오후 3.35.14.png",
     "screenshot/스크린샷 2024-09-23 오후 2.27.05.png",
     "screenshot/스크린샷 2024-09-23 오후 2.26.15.png",
     "screenshot/스크린샷 2024-09-23 오전 10.04.15.png",
-    "screenshot/스크린샷 2024-09-23 오전 9.57.34.png",
     "private/calendar",
     "private/유통관리",
     "screenshot",
