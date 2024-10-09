@@ -300,7 +300,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/아키텍쳐 개요.md",
+                "file": "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
                 "mode": "source",
                 "source": false
               }
@@ -373,7 +373,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/아키텍쳐 개요.md",
+                "file": "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,7 +390,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/아키텍쳐 개요.md",
+                "file": "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -413,7 +413,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/아키텍쳐 개요.md"
+                "file": "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md"
               }
             }
           },
@@ -455,8 +455,10 @@
   },
   "active": "ffc33aba708ed972",
   "lastOpenFiles": [
+    "study/ㄱ - 정리 할 것/DIP.md",
+    "study/ㄱ - 정리 할 것",
+    "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
     "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md",
-    "study/ㄱ-정리된 것/블로그/아키텍쳐 개요.md",
     "private/calendar/2024-10-23 자료구조 시험.md",
     "private/calendar/2024-10-11 기타튜터링.md",
     "private/calendar/2024-10-10 기타 튜터링.md",
@@ -487,8 +489,6 @@
     "private/calendar/2024-11-02 GDSC 회의.md",
     "study/ㄱ-정리된 것/JVM 정리/내가 JVM을 공부하는 이유..md",
     "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
-    "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
-    "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
     "study/ㄱ-정리된 것/무제 폴더",
     "private/과제",
     "screenshot/스크린샷 2024-09-24 오후 3.35.14.png",
@@ -500,7 +500,6 @@
     "screenshot",
     "private",
     "study/ㄱ-정리된 것/SQL",
-    "study/ㄱ-정리된 것/객체지향",
-    "study/ㄱ-정리된 것/블로그"
+    "study/ㄱ-정리된 것/객체지향"
   ]
 }
