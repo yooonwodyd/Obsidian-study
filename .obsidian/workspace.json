@@ -23,11 +23,48 @@
             "id": "42e25a04ba1d3f55",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/calendar/2024-10-24 유통관리 시험 확정.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e214b985ba3d4f45",
+            "type": "leaf",
+            "state": {
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "52a03ff28b6f1013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/calendar/2024-10-24 유통관리 시험.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bcd6d00ece10f4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/유통관리/6장.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/취업 서류/우테코 서류.md",
+                "file": "private/유통관리/6장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/취업 서류/우테코 서류.md",
+                "file": "private/유통관리/6장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/취업 서류/우테코 서류.md"
+                "file": "private/유통관리/6장.md"
               }
             }
           },
@@ -173,10 +210,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ffc33aba708ed972",
+  "active": "5bcd6d00ece10f4b",
   "lastOpenFiles": [
-    "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
+    "private/유통관리/1,2장.md",
+    "private/유통관리/6장.md",
+    "private/calendar/2024-10-24 유통관리 시험 확정.md",
+    "private/calendar/2024-10-24 유통관리 시험.md",
     "private/취업 서류/우테코 서류.md",
+    "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
     "무제 파일.canvas",
     "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md",
     "private/asdf.md",
@@ -205,9 +246,6 @@
     "screenshot/스크린샷 2024-10-08 오후 7.56.09.png",
     "screenshot/스크린샷 2024-10-08 오후 7.55.02.png",
     "README.md",
-    "2024-10-04.md",
-    "2024-10-08.md",
-    "study/ㄱ-정리된 것/블로그/무제 파일.md",
     "private/취업 서류",
     "study/ㄱ-정리된 것/무제 폴더",
     "private/과제",
