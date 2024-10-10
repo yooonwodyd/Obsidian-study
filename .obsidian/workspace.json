@@ -68,6 +68,14 @@
             }
           },
           {
+            "id": "68172830a676043d",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
             "id": "52a03ff28b6f1013",
             "type": "leaf",
             "state": {
@@ -92,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -238,8 +246,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4c2326ed57b7b409",
+  "active": "68172830a676043d",
   "lastOpenFiles": [
+    "private/calendar/2024-10-31 GDSC 스터디.md",
     "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
     "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
     "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
@@ -266,7 +275,6 @@
     "private/자본시장론.md",
     "study/ㄱ-정리된 것/알고리즘/다익스트라.md",
     "private/경영조직론.md",
-    "private/과제/경영조직론 과제 1.md",
     "study/ㄱ - 정리 할 것",
     "screenshot/스크린샷 2024-10-08 오후 7.59.24.png",
     "screenshot/스크린샷 2024-10-08 오후 7.59.10.png",
