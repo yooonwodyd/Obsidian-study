@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/calendar/2024-10-29 글로벌 경영 시험.md",
+                "file": "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/calendar/2024-10-29 글로벌 경영 시험.md",
+                "file": "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/calendar/2024-10-29 글로벌 경영 시험.md",
+                "file": "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/calendar/2024-10-29 글로벌 경영 시험.md"
+                "file": "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md"
               }
             }
           },
@@ -240,34 +240,34 @@
   },
   "active": "4c2326ed57b7b409",
   "lastOpenFiles": [
+    "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
+    "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
+    "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
+    "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
+    "study/ㄱ-정리된 것/스프링/DelegatingFilterProxy와 FilterChainProxy.md",
+    "study/ㄱ-정리된 것/스프링/JPA 기본키 생성 전략.md",
+    "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
+    "study/ㄱ-정리된 것/블로그/무제 파일.md",
+    "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
+    "private/calendar/2024-10-29 글로벌 경영 시험.md",
     "private/calendar/2024-10-29 자본시장론 시험.md",
     "private/calendar/2024-10-31 글로벌 경영 수업 있음.md",
-    "private/calendar/2024-10-29 글로벌 경영 시험.md",
     "private/calendar/2024-10-24 유통관리 시험 확정.md",
     "private/유통관리/6장.md",
     "private/유통관리/1,2장.md",
     "private/calendar/2024-10-24 유통관리 시험.md",
     "private/취업 서류/우테코 서류.md",
-    "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
     "무제 파일.canvas",
     "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md",
     "private/asdf.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
     "private/과제/경영조직론 과제 2.md",
-    "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
     "study/ㄱ-정리된 것/스프링/Union Find Algorithm.md",
     "private/자본시장론.md",
     "study/ㄱ-정리된 것/알고리즘/다익스트라.md",
     "private/경영조직론.md",
     "private/과제/경영조직론 과제 1.md",
-    "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
-    "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
-    "private/운영관리.md",
-    "private/글로벌 경영.md",
-    "study/ㄱ - 정리 할 것/DIP.md",
     "study/ㄱ - 정리 할 것",
-    "private/calendar/2024-10-23 자료구조 시험.md",
-    "private/calendar/2024-10-11 기타튜터링.md",
     "screenshot/스크린샷 2024-10-08 오후 7.59.24.png",
     "screenshot/스크린샷 2024-10-08 오후 7.59.10.png",
     "screenshot/스크린샷 2024-10-08 오후 7.58.17.png",
