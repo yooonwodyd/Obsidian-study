@@ -35,6 +35,18 @@
             "id": "e214b985ba3d4f45",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/calendar/2024-10-29 자본시장론 시험.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f308127b44d41857",
+            "type": "leaf",
+            "state": {
               "type": "full-calendar-view",
               "state": {}
             }
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/유통관리/6장.md",
+                "file": "private/calendar/2024-10-29 자본시장론 시험.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/유통관리/6장.md",
+                "file": "private/calendar/2024-10-29 자본시장론 시험.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/유통관리/6장.md"
+                "file": "private/calendar/2024-10-29 자본시장론 시험.md"
               }
             }
           },
@@ -210,11 +222,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5bcd6d00ece10f4b",
+  "active": "f308127b44d41857",
   "lastOpenFiles": [
-    "private/유통관리/1,2장.md",
-    "private/유통관리/6장.md",
     "private/calendar/2024-10-24 유통관리 시험 확정.md",
+    "private/calendar/2024-10-29 자본시장론 시험.md",
+    "private/유통관리/6장.md",
+    "private/유통관리/1,2장.md",
     "private/calendar/2024-10-24 유통관리 시험.md",
     "private/취업 서류/우테코 서류.md",
     "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
@@ -245,7 +258,6 @@
     "screenshot/스크린샷 2024-10-08 오후 7.56.54.png",
     "screenshot/스크린샷 2024-10-08 오후 7.56.09.png",
     "screenshot/스크린샷 2024-10-08 오후 7.55.02.png",
-    "README.md",
     "private/취업 서류",
     "study/ㄱ-정리된 것/무제 폴더",
     "private/과제",
