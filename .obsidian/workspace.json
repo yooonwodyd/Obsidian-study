@@ -80,6 +80,14 @@
             }
           },
           {
+            "id": "bb959075006dd059",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
             "id": "52a03ff28b6f1013",
             "type": "leaf",
             "state": {
@@ -104,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -250,7 +258,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "68172830a676043d",
+  "active": "bb959075006dd059",
   "lastOpenFiles": [
     "private/calendar/2024-10-24 유통관리 시험 확정.md",
     "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
