@@ -71,8 +71,12 @@
             "id": "68172830a676043d",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "private/calendar/2024-10-24 유통관리 시험 확정.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -166,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
+                "file": "private/calendar/2024-10-24 유통관리 시험 확정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
+                "file": "private/calendar/2024-10-24 유통관리 시험 확정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md"
+                "file": "private/calendar/2024-10-24 유통관리 시험 확정.md"
               }
             }
           },
@@ -248,11 +252,12 @@
   },
   "active": "68172830a676043d",
   "lastOpenFiles": [
+    "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
+    "private/calendar/2024-10-24 유통관리 시험 확정.md",
     "private/calendar/2024-10-19 카테캠 모임.md",
     "private/calendar/2024-10-25 25일 멘토링.md",
     "private/calendar/2024-10-31 GDSC 스터디.md",
     "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
-    "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
     "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
     "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
     "study/ㄱ-정리된 것/스프링/DelegatingFilterProxy와 FilterChainProxy.md",
@@ -263,7 +268,6 @@
     "private/calendar/2024-10-29 글로벌 경영 시험.md",
     "private/calendar/2024-10-29 자본시장론 시험.md",
     "private/calendar/2024-10-31 글로벌 경영 수업 있음.md",
-    "private/calendar/2024-10-24 유통관리 시험 확정.md",
     "private/유통관리/6장.md",
     "private/유통관리/1,2장.md",
     "private/calendar/2024-10-24 유통관리 시험.md",
