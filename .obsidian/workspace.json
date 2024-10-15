@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/calendar/2024-10-24 유통관리 시험 확정.md",
+                "file": "private/글로벌 경영.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/calendar/2024-10-24 유통관리 시험 확정.md",
+                "file": "private/글로벌 경영.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/calendar/2024-10-24 유통관리 시험 확정.md",
+                "file": "private/글로벌 경영.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/calendar/2024-10-24 유통관리 시험 확정.md"
+                "file": "private/글로벌 경영.md"
               }
             }
           },
@@ -252,8 +252,8 @@
   },
   "active": "68172830a676043d",
   "lastOpenFiles": [
-    "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
     "private/calendar/2024-10-24 유통관리 시험 확정.md",
+    "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
     "private/calendar/2024-10-19 카테캠 모임.md",
     "private/calendar/2024-10-25 25일 멘토링.md",
     "private/calendar/2024-10-31 GDSC 스터디.md",
