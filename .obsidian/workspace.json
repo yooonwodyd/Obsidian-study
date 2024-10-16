@@ -83,8 +83,24 @@
             "id": "bb959075006dd059",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "private/calendar/2024-10-28 경영조직론 시험.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b0ecf6d3388d515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -124,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -190,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/경영조직론.md",
+                "file": "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/경영조직론.md",
+                "file": "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/경영조직론.md"
+                "file": "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md"
               }
             }
           },
@@ -270,8 +286,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "bb959075006dd059",
+  "active": "2b0ecf6d3388d515",
   "lastOpenFiles": [
+    "private/calendar/2024-10-28 경영조직론 시험.md",
+    "private/calendar/2024-10-28 경영과학 수업 없음.md",
+    "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md",
+    "private/경영조직론.md",
     "private/글로벌 경영.md",
     "private/calendar/2024-10-24 유통관리 시험 확정.md",
     "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
@@ -295,10 +315,6 @@
     "private/취업 서류/우테코 서류.md",
     "무제 파일.canvas",
     "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md",
-    "private/asdf.md",
-    "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
-    "private/과제/경영조직론 과제 2.md",
-    "study/ㄱ-정리된 것/스프링/Union Find Algorithm.md",
     "study/ㄱ - 정리 할 것",
     "screenshot/스크린샷 2024-10-08 오후 7.59.24.png",
     "screenshot/스크린샷 2024-10-08 오후 7.59.10.png",
