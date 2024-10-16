@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/유통관리 과제.md",
+                "file": "private/유통관리 무인매장.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/유통관리 과제.md",
+                "file": "private/유통관리 무인매장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/유통관리 과제.md",
+                "file": "private/유통관리 무인매장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/유통관리 과제.md"
+                "file": "private/유통관리 무인매장.md"
               }
             }
           },
@@ -308,8 +308,12 @@
   },
   "active": "b92f45bf2322fb61",
   "lastOpenFiles": [
+    "screenshot/스크린샷 2024-10-16 오후 11.18.07.png",
+    "screenshot/스크린샷 2024-10-16 오후 11.17.07.png",
+    "screenshot/스크린샷 2024-10-16 오후 11.09.31.png",
+    "screenshot/스크린샷 2024-10-16 오후 11.06.47.png",
     "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
-    "private/유통관리 과제.md",
+    "private/유통관리 무인매장.md",
     "study/ㄱ-정리된 것/기본 CS/기본 CS 모음.md",
     "private/자본시장론.md",
     "private/calendar/2024-10-28 경영조직론 시험.md",
@@ -333,7 +337,6 @@
     "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
     "study/ㄱ-정리된 것/블로그/무제 파일.md",
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
-    "private/calendar/2024-10-31 글로벌 경영 수업 있음.md",
     "무제 파일.canvas",
     "study/ㄱ - 정리 할 것",
     "screenshot/스크린샷 2024-10-08 오후 7.59.24.png",
@@ -346,9 +349,6 @@
     "study/ㄱ-정리된 것/무제 폴더",
     "private/과제",
     "screenshot/스크린샷 2024-09-24 오후 3.35.14.png",
-    "screenshot/스크린샷 2024-09-23 오후 2.27.05.png",
-    "screenshot/스크린샷 2024-09-23 오후 2.26.15.png",
-    "screenshot/스크린샷 2024-09-23 오전 10.04.15.png",
     "private/calendar",
     "private/calendar/유통관리",
     "screenshot",
