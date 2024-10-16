@@ -141,7 +141,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/자본시장론.md",
+                "file": "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/자본시장론.md",
+                "file": "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/자본시장론.md",
+                "file": "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/자본시장론.md"
+                "file": "study/ㄱ-정리된 것/기본 CS/자료구조-2.md"
               }
             }
           },
@@ -296,6 +296,9 @@
   },
   "active": "e2cdb83a45853e83",
   "lastOpenFiles": [
+    "study/ㄱ-정리된 것/기본 CS/기본 CS 모음.md",
+    "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
+    "private/자본시장론.md",
     "private/calendar/2024-10-28 경영조직론 시험.md",
     "private/calendar/2024-11-25 gdsc 대면 종강 날.md",
     "private/calendar/2024-10-29 글로벌 경영 시험.md",
@@ -319,9 +322,6 @@
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "private/calendar/2024-10-31 글로벌 경영 수업 있음.md",
     "private/calendar/유통관리/6장.md",
-    "private/calendar/유통관리/1,2장.md",
-    "private/calendar/2024-10-24 유통관리 시험.md",
-    "private/취업 서류/우테코 서류.md",
     "무제 파일.canvas",
     "study/ㄱ - 정리 할 것",
     "screenshot/스크린샷 2024-10-08 오후 7.59.24.png",
