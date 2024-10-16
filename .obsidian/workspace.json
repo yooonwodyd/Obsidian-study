@@ -146,9 +146,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b92f45bf2322fb61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/유통관리 과제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
+                "file": "private/유통관리 과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
+                "file": "private/유통관리 과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/기본 CS/자료구조-2.md"
+                "file": "private/유통관리 과제.md"
               }
             }
           },
@@ -294,10 +306,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e2cdb83a45853e83",
+  "active": "b92f45bf2322fb61",
   "lastOpenFiles": [
-    "study/ㄱ-정리된 것/기본 CS/기본 CS 모음.md",
     "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
+    "private/유통관리 과제.md",
+    "study/ㄱ-정리된 것/기본 CS/기본 CS 모음.md",
     "private/자본시장론.md",
     "private/calendar/2024-10-28 경영조직론 시험.md",
     "private/calendar/2024-11-25 gdsc 대면 종강 날.md",
@@ -321,7 +334,6 @@
     "study/ㄱ-정리된 것/블로그/무제 파일.md",
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "private/calendar/2024-10-31 글로벌 경영 수업 있음.md",
-    "private/calendar/유통관리/6장.md",
     "무제 파일.canvas",
     "study/ㄱ - 정리 할 것",
     "screenshot/스크린샷 2024-10-08 오후 7.59.24.png",
