@@ -80,15 +80,11 @@
             }
           },
           {
-            "id": "2b0ecf6d3388d515",
+            "id": "872170280d5d4935",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/글로벌 경영 과제.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           },
           {
@@ -230,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/글로벌 경영 과제.md",
+                "file": "private/calendar/2024-10-28 경영조직론 시험.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/글로벌 경영 과제.md",
+                "file": "private/calendar/2024-10-28 경영조직론 시험.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/글로벌 경영 과제.md"
+                "file": "private/calendar/2024-10-28 경영조직론 시험.md"
               }
             }
           },
@@ -310,10 +306,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2b0ecf6d3388d515",
+  "active": "872170280d5d4935",
   "lastOpenFiles": [
-    "private/calendar/2024-10-24 유통관리 시험 확정.md",
     "private/글로벌 경영 과제.md",
+    "private/calendar/2024-10-24 유통관리 시험 확정.md",
     "private/유통관리.md",
     "private/유통관리 무인매장.md",
     "private/calendar/2024-10-25 gdsc 멘토링.md",
