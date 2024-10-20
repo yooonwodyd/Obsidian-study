@@ -110,9 +110,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42ffe3136696a846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/장쉐린 가이드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/유통관리 개인 문제.md",
+                "file": "private/장쉐린 가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/유통관리 개인 문제.md",
+                "file": "private/장쉐린 가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/유통관리 개인 문제.md"
+                "file": "private/장쉐린 가이드.md"
               }
             }
           },
@@ -258,10 +270,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "872170280d5d4935",
+  "active": "42ffe3136696a846",
   "lastOpenFiles": [
-    "private/유통관리.md",
     "private/유통관리 개인 문제.md",
+    "private/장쉐린 가이드.md",
+    "private/유통관리.md",
     "private/경영조직론.md",
     "private/calendar/2024-10-24 자본 시장론 글로벌 경영.md",
     "private/calendar/2024-10-25 자본 시장론 경영조직론.md",
@@ -290,7 +303,6 @@
     "screenshot/스크린샷 2024-10-16 오후 11.17.07.png",
     "screenshot/스크린샷 2024-10-16 오후 11.09.31.png",
     "screenshot/스크린샷 2024-10-16 오후 11.06.47.png",
-    "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
     "무제 파일.canvas",
     "study/ㄱ - 정리 할 것",
     "screenshot/스크린샷 2024-10-08 오후 7.59.24.png",
