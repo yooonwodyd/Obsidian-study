@@ -116,6 +116,14 @@
             }
           },
           {
+            "id": "9bcec4d3f8387aa3",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
             "id": "42ffe3136696a846",
             "type": "leaf",
             "state": {
@@ -148,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -214,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/calendar/2024-10-24 유통관리 시험 확정.md",
+                "file": "private/유통관리 개인 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/calendar/2024-10-24 유통관리 시험 확정.md",
+                "file": "private/유통관리 개인 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/calendar/2024-10-24 유통관리 시험 확정.md"
+                "file": "private/유통관리 개인 문제.md"
               }
             }
           },
@@ -294,8 +302,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "872170280d5d4935",
+  "active": "b201b94f5d0205c0",
   "lastOpenFiles": [
+    "private/calendar/2024-10-24 유통관리 시험 확정.md",
     "private/유통관리 개인 문제.md",
     "private/장쉐린 가이드.md",
     "study/ㄱ - 정리 할 것/자료구조.md",
@@ -322,7 +331,6 @@
     "private/calendar/2024-10-27 경영조직론 자본시장론.md",
     "private/calendar/2024-10-26 글로벌 경영 자료구조.md",
     "private/calendar/2024-10-22 경영과학.md",
-    "private/calendar/2024-10-21 유통관리.md",
     "private/무제 폴더",
     "screenshot/스크린샷 2024-10-16 오후 11.18.07.png",
     "screenshot/스크린샷 2024-10-16 오후 11.17.07.png",
