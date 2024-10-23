@@ -172,6 +172,14 @@
             }
           },
           {
+            "id": "adaeedfbf9efbbf1",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
             "id": "2b695d595a352c8b",
             "type": "leaf",
             "state": {
@@ -208,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -354,8 +362,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3f07068bc52d4c5a",
+  "active": "adaeedfbf9efbbf1",
   "lastOpenFiles": [
+    "private/유통관리 개인 문제.md",
     "private/calendar/2024-10-30 자료구조 시험.md",
     "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md",
     "study/ㄱ - 정리 할 것/CI,CD, API, REST API,.md",
@@ -365,7 +374,6 @@
     "screenshot/스크린샷 2024-10-22 오후 7.12.37.png",
     "private/경영과학.md",
     "private/calendar/2024-10-29 글로벌 경영 시험.md",
-    "private/유통관리 개인 문제.md",
     "private/calendar/2024-11-08 gdsc 마지막 제출.md",
     "private/calendar/2024-11-02 sql 교육.md",
     "private/calendar/2024-10-24 유통관리 시험 확정.md",
