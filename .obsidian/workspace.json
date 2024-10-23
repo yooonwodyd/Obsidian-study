@@ -160,6 +160,14 @@
             }
           },
           {
+            "id": "3f07068bc52d4c5a",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
             "id": "2b695d595a352c8b",
             "type": "leaf",
             "state": {
@@ -262,7 +270,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +286,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,9 +307,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md"
-              }
+              "state": {}
             }
           },
           {
@@ -342,8 +346,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2b695d595a352c8b",
+  "active": "3f07068bc52d4c5a",
   "lastOpenFiles": [
+    "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md",
     "study/ㄱ - 정리 할 것/CI,CD, API, REST API,.md",
     "screenshot/스크린샷 2024-10-22 오후 8.08.11.png",
     "screenshot/스크린샷 2024-10-22 오후 7.40.57.png",
