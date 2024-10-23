@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -262,7 +262,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -362,7 +363,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "adaeedfbf9efbbf1",
+  "active": "3f07068bc52d4c5a",
   "lastOpenFiles": [
     "private/유통관리 개인 문제.md",
     "private/calendar/2024-10-30 자료구조 시험.md",
