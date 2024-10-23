@@ -163,8 +163,12 @@
             "id": "3f07068bc52d4c5a",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "private/calendar/2024-10-30 자료구조 시험.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -270,6 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "private/calendar/2024-10-30 자료구조 시험.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,6 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "private/calendar/2024-10-30 자료구조 시험.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +313,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "private/calendar/2024-10-30 자료구조 시험.md"
+              }
             }
           },
           {
