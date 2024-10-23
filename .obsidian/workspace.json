@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/calendar/2024-10-30 자료구조 시험.md",
+                "file": "private/유통관리 개인 문제.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/calendar/2024-10-30 자료구조 시험.md",
+                "file": "private/유통관리 개인 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/calendar/2024-10-30 자료구조 시험.md",
+                "file": "private/유통관리 개인 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/calendar/2024-10-30 자료구조 시험.md"
+                "file": "private/유통관리 개인 문제.md"
               }
             }
           },
@@ -356,6 +356,7 @@
   },
   "active": "3f07068bc52d4c5a",
   "lastOpenFiles": [
+    "private/calendar/2024-10-30 자료구조 시험.md",
     "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md",
     "study/ㄱ - 정리 할 것/CI,CD, API, REST API,.md",
     "screenshot/스크린샷 2024-10-22 오후 8.08.11.png",
@@ -385,7 +386,6 @@
     "private/취업 서류/우테코 서류.md",
     "private/글로벌 경영 과제.md",
     "private/경영조직론.md",
-    "private/과제/무제 파일.md",
     "private/자본시장론",
     "private/무제 폴더",
     "screenshot/스크린샷 2024-10-16 오후 11.18.07.png",
