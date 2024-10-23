@@ -163,8 +163,12 @@
             "id": "2b695d595a352c8b",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -192,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -258,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ - 정리 할 것/CI,CD, API, REST API,.md",
+                "file": "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ - 정리 할 것/CI,CD, API, REST API,.md",
+                "file": "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ - 정리 할 것/CI,CD, API, REST API,.md"
+                "file": "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md"
               }
             }
           },
@@ -338,14 +342,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e3987f2e2431c3c1",
+  "active": "2b695d595a352c8b",
   "lastOpenFiles": [
+    "study/ㄱ - 정리 할 것/CI,CD, API, REST API,.md",
     "screenshot/스크린샷 2024-10-22 오후 8.08.11.png",
     "screenshot/스크린샷 2024-10-22 오후 7.40.57.png",
     "screenshot/스크린샷 2024-10-22 오후 7.40.22.png",
     "screenshot/스크린샷 2024-10-22 오후 7.12.37.png",
     "private/경영과학.md",
-    "study/ㄱ - 정리 할 것/CI,CD, API, REST API,.md",
     "private/calendar/2024-10-29 글로벌 경영 시험.md",
     "private/유통관리 개인 문제.md",
     "private/calendar/2024-11-08 gdsc 마지막 제출.md",
@@ -379,7 +383,6 @@
     "study/ㄱ - 정리 할 것",
     "screenshot/스크린샷 2024-10-08 오후 7.59.24.png",
     "screenshot/스크린샷 2024-10-08 오후 7.59.10.png",
-    "screenshot/스크린샷 2024-10-08 오후 7.58.17.png",
     "private/취업 서류",
     "study/ㄱ-정리된 것/무제 폴더",
     "private/과제",
