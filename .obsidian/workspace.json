@@ -160,7 +160,7 @@
             }
           },
           {
-            "id": "3f07068bc52d4c5a",
+            "id": "adaeedfbf9efbbf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,14 +169,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "adaeedfbf9efbbf1",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
             }
           },
           {
@@ -262,8 +254,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -363,8 +354,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3f07068bc52d4c5a",
+  "active": "adaeedfbf9efbbf1",
   "lastOpenFiles": [
+    "private/calendar/2024-10-24 유통관리 시험 확정.md",
     "private/유통관리 개인 문제.md",
     "private/calendar/2024-10-30 자료구조 시험.md",
     "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md",
@@ -377,7 +369,6 @@
     "private/calendar/2024-10-29 글로벌 경영 시험.md",
     "private/calendar/2024-11-08 gdsc 마지막 제출.md",
     "private/calendar/2024-11-02 sql 교육.md",
-    "private/calendar/2024-10-24 유통관리 시험 확정.md",
     "private/장쉐린 가이드.md",
     "study/ㄱ - 정리 할 것/자료구조.md",
     "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
