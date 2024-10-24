@@ -160,6 +160,14 @@
             }
           },
           {
+            "id": "ddbe9f3904f1781d",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
             "id": "adaeedfbf9efbbf1",
             "type": "leaf",
             "state": {
@@ -208,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -339,8 +347,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,8 +363,8 @@
   },
   "active": "adaeedfbf9efbbf1",
   "lastOpenFiles": [
-    "private/유통관리 무인매장.md",
     "private/유통관리 개인 문제.md",
+    "private/유통관리 무인매장.md",
     "private/운영관리.md",
     "private/유통관리.md",
     "private/calendar/2024-10-24 유통관리 시험 확정.md",
