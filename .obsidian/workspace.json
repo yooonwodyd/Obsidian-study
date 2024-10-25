@@ -160,14 +160,6 @@
             }
           },
           {
-            "id": "ddbe9f3904f1781d",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "adaeedfbf9efbbf1",
             "type": "leaf",
             "state": {
@@ -177,6 +169,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "a5e38f0ffabc9293",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
             }
           },
           {
@@ -361,7 +361,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "adaeedfbf9efbbf1",
+  "active": "a5e38f0ffabc9293",
   "lastOpenFiles": [
     "private/유통관리 개인 문제.md",
     "private/유통관리 무인매장.md",
