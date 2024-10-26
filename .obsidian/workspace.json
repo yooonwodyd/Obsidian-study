@@ -221,7 +221,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/운영관리.md",
+                "file": "private/유통관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/운영관리.md",
+                "file": "private/유통관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/운영관리.md",
+                "file": "private/유통관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -334,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/운영관리.md"
+                "file": "private/유통관리.md"
               }
             }
           },
@@ -375,8 +375,12 @@
   },
   "active": "f93a1464ca527f36",
   "lastOpenFiles": [
-    "private/유통관리 개인 문제.md",
+    "private/경영과학.md",
+    "private/경영조직론.md",
+    "private/글로벌 경영.md",
+    "private/글로벌 경영 과제.md",
     "private/운영관리.md",
+    "private/유통관리 개인 문제.md",
     "private/calendar/2024-10-28 운영관리 시험 계산기 지참 필요.md",
     "private/유통관리 무인매장.md",
     "private/유통관리.md",
@@ -388,7 +392,6 @@
     "screenshot/스크린샷 2024-10-22 오후 7.40.57.png",
     "screenshot/스크린샷 2024-10-22 오후 7.40.22.png",
     "screenshot/스크린샷 2024-10-22 오후 7.12.37.png",
-    "private/경영과학.md",
     "private/calendar/2024-10-29 글로벌 경영 시험.md",
     "private/calendar/2024-11-08 gdsc 마지막 제출.md",
     "private/calendar/2024-11-02 sql 교육.md",
@@ -402,9 +405,6 @@
     "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
     "study/ㄱ-정리된 것/블로그/Transaction과 Lock에 대해.md",
     "study/ㄱ-정리된 것/기본 CS/기본 CS 모음.md",
-    "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
-    "private/자본시장론/자본 시장론 10월 21일.md",
-    "private/자본시장론/자본시장론.md",
     "private/자본시장론",
     "private/무제 폴더",
     "screenshot/스크린샷 2024-10-16 오후 11.18.07.png",
