@@ -214,9 +214,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "742e46551f021954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/운영관리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -282,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/유통관리 개인 문제.md",
+                "file": "private/운영관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/유통관리 개인 문제.md",
+                "file": "private/운영관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/유통관리 개인 문제.md"
+                "file": "private/운영관리.md"
               }
             }
           },
@@ -361,9 +373,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a5e38f0ffabc9293",
+  "active": "742e46551f021954",
   "lastOpenFiles": [
     "private/유통관리 개인 문제.md",
+    "private/calendar/2024-10-28 운영관리 시험 계산기 지참 필요.md",
     "private/유통관리 무인매장.md",
     "private/운영관리.md",
     "private/유통관리.md",
@@ -392,7 +405,6 @@
     "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
     "private/자본시장론/자본 시장론 10월 21일.md",
     "private/자본시장론/자본시장론.md",
-    "private/취업 서류/우테코 서류.md",
     "private/자본시장론",
     "private/무제 폴더",
     "screenshot/스크린샷 2024-10-16 오후 11.18.07.png",
