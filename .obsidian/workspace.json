@@ -232,7 +232,7 @@
             }
           },
           {
-            "id": "f5dce53c60c4ca42",
+            "id": "fdf2cfeb1923cc26",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -240,7 +240,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -306,7 +306,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/운영관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +322,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/운영관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -345,9 +343,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "private/운영관리.md"
-              }
+              "state": {}
             }
           },
           {
@@ -385,10 +381,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8b8af3329c8f9d63",
+  "active": "fdf2cfeb1923cc26",
   "lastOpenFiles": [
-    "private/운영관리 문제.md",
     "private/운영관리.md",
+    "private/운영관리 문제.md",
     "screenshot/스크린샷 2024-10-27 오전 5.07.48.png",
     "private/유통관리.md",
     "private/유통관리 개인 문제.md",
