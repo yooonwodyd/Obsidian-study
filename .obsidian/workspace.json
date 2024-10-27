@@ -172,14 +172,6 @@
             }
           },
           {
-            "id": "ef3e483b15205065",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "2b695d595a352c8b",
             "type": "leaf",
             "state": {
@@ -237,6 +229,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "f5dce53c60c4ca42",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ],
@@ -385,7 +385,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8b8af3329c8f9d63",
+  "active": "f5dce53c60c4ca42",
   "lastOpenFiles": [
     "screenshot/스크린샷 2024-10-27 오전 5.07.48.png",
     "private/운영관리 문제.md",
