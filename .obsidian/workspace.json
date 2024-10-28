@@ -152,14 +152,6 @@
             }
           },
           {
-            "id": "e550de09a34fe52a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "adaeedfbf9efbbf1",
             "type": "leaf",
             "state": {
@@ -235,12 +227,28 @@
             "id": "fdf2cfeb1923cc26",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "private/calendar/2024-10-29 글로벌 경영 시험.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01d5273d4cafe6c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/글로벌 경영.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -306,6 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "private/calendar/2024-10-29 글로벌 경영 시험.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,6 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "private/calendar/2024-10-29 글로벌 경영 시험.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +353,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "private/calendar/2024-10-29 글로벌 경영 시험.md"
+              }
             }
           },
           {
@@ -383,6 +395,7 @@
   },
   "active": "fdf2cfeb1923cc26",
   "lastOpenFiles": [
+    "private/글로벌 경영.md",
     "private/운영관리.md",
     "private/운영관리 문제.md",
     "screenshot/스크린샷 2024-10-27 오전 5.07.48.png",
@@ -390,7 +403,6 @@
     "private/유통관리 개인 문제.md",
     "private/경영과학.md",
     "private/경영조직론.md",
-    "private/글로벌 경영.md",
     "private/글로벌 경영 과제.md",
     "private/calendar/2024-10-28 운영관리 시험 계산기 지참 필요.md",
     "private/유통관리 무인매장.md",
