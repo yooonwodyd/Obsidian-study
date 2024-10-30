@@ -272,6 +272,14 @@
             }
           },
           {
+            "id": "7654002ac56461fc",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
             "id": "01d5273d4cafe6c7",
             "type": "leaf",
             "state": {
@@ -284,7 +292,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -429,8 +437,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f049f6355326294c",
+  "active": "7654002ac56461fc",
   "lastOpenFiles": [
+    "private/calendar/2024-11-08 창석이형이랑 놀기.md",
     "private/자본시장론/자본 시장론 10월 21일.md",
     "private/자본시장론/자본시장론.md",
     "private/calendar/2024-10-29 글로벌 경영 시험.md",
@@ -461,7 +470,6 @@
     "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
     "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
     "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
-    "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "private/자본시장론",
     "private/무제 폴더",
     "screenshot/스크린샷 2024-10-16 오후 11.18.07.png",
