@@ -272,14 +272,6 @@
             }
           },
           {
-            "id": "7654002ac56461fc",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "01d5273d4cafe6c7",
             "type": "leaf",
             "state": {
@@ -301,6 +293,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "991d44c5aa8f92fd",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ],
@@ -449,7 +449,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0243fb0c853ad130",
+  "active": "991d44c5aa8f92fd",
   "lastOpenFiles": [
     "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
     "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
