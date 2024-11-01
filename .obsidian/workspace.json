@@ -290,9 +290,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0243fb0c853ad130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -358,7 +370,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/calendar/2024-10-30 자료구조 시험.md",
+                "file": "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -375,7 +387,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/calendar/2024-10-30 자료구조 시험.md",
+                "file": "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -398,7 +410,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/calendar/2024-10-30 자료구조 시험.md"
+                "file": "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md"
               }
             }
           },
@@ -437,8 +449,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7654002ac56461fc",
+  "active": "0243fb0c853ad130",
   "lastOpenFiles": [
+    "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
+    "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
+    "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
+    "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
+    "private/calendar/2024-10-30 자료구조 시험.md",
     "private/calendar/2024-11-08 창석이형이랑 놀기.md",
     "private/자본시장론/자본 시장론 10월 21일.md",
     "private/자본시장론/자본시장론.md",
@@ -456,7 +473,6 @@
     "private/calendar/2024-10-28 운영관리 시험 계산기 지참 필요.md",
     "private/유통관리 무인매장.md",
     "private/calendar/2024-10-24 유통관리 시험 확정.md",
-    "private/calendar/2024-10-30 자료구조 시험.md",
     "private/calendar/2024-10-23 경영과학 중간고사 수업시간.md",
     "study/ㄱ - 정리 할 것/CI,CD, API, REST API,.md",
     "screenshot/스크린샷 2024-10-22 오후 8.08.11.png",
@@ -466,10 +482,6 @@
     "private/calendar/2024-11-08 gdsc 마지막 제출.md",
     "private/calendar/2024-11-02 sql 교육.md",
     "private/장쉐린 가이드.md",
-    "study/ㄱ - 정리 할 것/자료구조.md",
-    "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
-    "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
-    "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
     "private/자본시장론",
     "private/무제 폴더",
     "screenshot/스크린샷 2024-10-16 오후 11.18.07.png",
