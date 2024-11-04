@@ -309,7 +309,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/ㄱ-정리된 것/자바 정리/스트림의 병렬처리.md",
+                "file": "study/프로젝트/체스.md",
                 "mode": "source",
                 "source": false
               }
@@ -382,7 +382,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/자바 정리/스트림의 병렬처리.md",
+                "file": "study/프로젝트/체스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -399,7 +399,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/자바 정리/스트림의 병렬처리.md",
+                "file": "study/프로젝트/체스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -422,7 +422,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/자바 정리/스트림의 병렬처리.md"
+                "file": "study/프로젝트/체스.md"
               }
             }
           },
@@ -463,8 +463,10 @@
   },
   "active": "ebe9b0eda05d22e2",
   "lastOpenFiles": [
-    "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
     "study/ㄱ-정리된 것/자바 정리/스트림의 병렬처리.md",
+    "study/프로젝트/체스.md",
+    "study/프로젝트",
+    "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
     "private/calendar/2024-11-04 카테캠 정기회의.md",
     "private/calendar/2024-11-06 gdsc.md",
     "private/calendar/2024-11-05 gdsc.md",
@@ -489,7 +491,6 @@
     "screenshot/스크린샷 2024-10-27 오전 5.07.48.png",
     "private/유통관리.md",
     "private/유통관리 개인 문제.md",
-    "private/경영과학.md",
     "screenshot/스크린샷 2024-10-22 오후 8.08.11.png",
     "screenshot/스크린샷 2024-10-22 오후 7.40.57.png",
     "screenshot/스크린샷 2024-10-22 오후 7.40.22.png",
@@ -508,7 +509,6 @@
     "private/과제",
     "private/calendar",
     "private/calendar/유통관리",
-    "screenshot",
-    "private"
+    "screenshot"
   ]
 }
