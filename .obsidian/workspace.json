@@ -296,14 +296,6 @@
             }
           },
           {
-            "id": "991d44c5aa8f92fd",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "ebe9b0eda05d22e2",
             "type": "leaf",
             "state": {
@@ -313,6 +305,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "0064cd6654d2647e",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ],
@@ -461,7 +461,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ebe9b0eda05d22e2",
+  "active": "0064cd6654d2647e",
   "lastOpenFiles": [
     "screenshot/스크린샷 2024-11-04 오후 5.30.46.png",
     "study/프로젝트/체스.md",
