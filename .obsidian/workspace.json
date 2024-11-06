@@ -289,30 +289,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
+                "file": "study/ㄱ-정리된 것/블로그/JPA - 3 N + 1 문제.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ebe9b0eda05d22e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study/ㄱ-정리된 것/자바 정리/스트림의 병렬처리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0064cd6654d2647e",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
             }
           },
           {
@@ -321,14 +301,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/JPA - 2 프록시와 N + 1 문제.md",
+                "file": "study/ㄱ-정리된 것/블로그/JPA - 2 프록시.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -394,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/JPA - 2 프록시와 N + 1 문제.md",
+                "file": "study/ㄱ-정리된 것/블로그/JPA - 3 N + 1 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -411,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/JPA - 2 프록시와 N + 1 문제.md",
+                "file": "study/ㄱ-정리된 것/블로그/JPA - 3 N + 1 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -434,7 +414,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/JPA - 2 프록시와 N + 1 문제.md"
+                "file": "study/ㄱ-정리된 것/블로그/JPA - 3 N + 1 문제.md"
               }
             }
           },
@@ -473,17 +453,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "716250d18794a0b4",
+  "active": "0243fb0c853ad130",
   "lastOpenFiles": [
-    "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
-    "study/ㄱ-정리된 것/블로그/JPA - 2 프록시와 N + 1 문제.md",
+    "study/ㄱ-정리된 것/블로그/JPA - 2 프록시.md",
+    "study/ㄱ-정리된 것/블로그/JPA - 3 N + 1 문제.md",
     "study/ㄱ-정리된 것/블로그/JPA 기본키 생성 전략.md",
+    "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
+    "study/ㄱ-정리된 것/자바 정리/스트림의 병렬처리.md",
+    "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
     "study/ㄱ-정리된 것/블로그/Transaction과 Lock에 대해.md",
     "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
-    "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
     "study/ㄱ-정리된 것/스프링/DelegatingFilterProxy와 FilterChainProxy.md",
     "study/ㄱ-정리된 것/알고리즘/Union Find Algorithm.md",
-    "study/ㄱ-정리된 것/자바 정리/스트림의 병렬처리.md",
     "screenshot/스크린샷 2024-11-04 오후 5.30.46.png",
     "study/프로젝트/체스.md",
     "study/프로젝트",
@@ -502,7 +483,6 @@
     "private/자본시장론/자본 시장론 10월 21일.md",
     "private/자본시장론/자본시장론.md",
     "private/calendar/2024-10-29 글로벌 경영 시험.md",
-    "private/calendar/2024-10-29 자본시장론 시험.md",
     "screenshot/스크린샷 2024-10-27 오전 5.07.48.png",
     "screenshot/스크린샷 2024-10-22 오후 8.08.11.png",
     "screenshot/스크린샷 2024-10-22 오후 7.40.57.png",
