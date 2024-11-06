@@ -296,6 +296,14 @@
             }
           },
           {
+            "id": "0a01aa5367b4b373",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
             "id": "716250d18794a0b4",
             "type": "leaf",
             "state": {
@@ -308,7 +316,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -453,7 +461,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0243fb0c853ad130",
+  "active": "0a01aa5367b4b373",
   "lastOpenFiles": [
     "study/ㄱ-정리된 것/블로그/JPA - 2 프록시.md",
     "study/ㄱ-정리된 것/블로그/JPA - 3  N + 1 문제.md",
