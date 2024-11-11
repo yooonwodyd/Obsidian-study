@@ -314,9 +314,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7cad58ac750c57e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/경영조직론.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b57ad712bb35a09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/경영조직론 과제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -382,7 +406,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/JPA - 3  N + 1 문제.md",
+                "file": "private/경영조직론 과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -399,7 +423,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/JPA - 3  N + 1 문제.md",
+                "file": "private/경영조직론 과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -422,7 +446,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/JPA - 3  N + 1 문제.md"
+                "file": "private/경영조직론 과제.md"
               }
             }
           },
@@ -461,10 +485,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0a01aa5367b4b373",
+  "active": "8b57ad712bb35a09",
   "lastOpenFiles": [
-    "study/ㄱ-정리된 것/블로그/JPA - 2 프록시.md",
+    "screenshot/스크린샷 2024-11-11 오후 3.12.52.png",
+    "screenshot/Patagonia-Organizational-Structure.webp",
+    "private/경영조직론.md",
+    "private/경영조직론 과제.md",
+    "무제 폴더",
+    "2024-11-11.md",
     "study/ㄱ-정리된 것/블로그/JPA - 3  N + 1 문제.md",
+    "study/ㄱ-정리된 것/블로그/JPA - 2 프록시.md",
     "study/ㄱ-정리된 것/블로그/JPA 기본키 생성 전략.md",
     "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
     "study/ㄱ-정리된 것/자바 정리/스트림의 병렬처리.md",
@@ -487,10 +517,6 @@
     "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "private/calendar/2024-10-30 자료구조 시험.md",
-    "private/calendar/2024-11-08 창석이형이랑 놀기.md",
-    "private/자본시장론/자본 시장론 10월 21일.md",
-    "private/자본시장론/자본시장론.md",
-    "private/calendar/2024-10-29 글로벌 경영 시험.md",
     "screenshot/스크린샷 2024-10-27 오전 5.07.48.png",
     "screenshot/스크린샷 2024-10-22 오후 8.08.11.png",
     "screenshot/스크린샷 2024-10-22 오후 7.40.57.png",
@@ -501,14 +527,12 @@
     "screenshot/스크린샷 2024-10-16 오후 11.18.07.png",
     "screenshot/스크린샷 2024-10-16 오후 11.17.07.png",
     "screenshot/스크린샷 2024-10-16 오후 11.09.31.png",
-    "screenshot/스크린샷 2024-10-16 오후 11.06.47.png",
     "무제 파일.canvas",
     "study/ㄱ - 정리 할 것",
     "private/취업 서류",
     "study/ㄱ-정리된 것/무제 폴더",
     "private/과제",
     "private/calendar",
-    "private/calendar/유통관리",
-    "screenshot"
+    "private/calendar/유통관리"
   ]
 }
