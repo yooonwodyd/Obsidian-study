@@ -296,14 +296,6 @@
             }
           },
           {
-            "id": "0a01aa5367b4b373",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "716250d18794a0b4",
             "type": "leaf",
             "state": {
@@ -337,6 +329,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "83b6096f38d2e357",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ],
@@ -485,7 +485,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8b57ad712bb35a09",
+  "active": "83b6096f38d2e357",
   "lastOpenFiles": [
     "screenshot/스크린샷 2024-11-11 오후 3.12.52.png",
     "screenshot/Patagonia-Organizational-Structure.webp",
