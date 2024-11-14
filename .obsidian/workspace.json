@@ -345,7 +345,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/경영조직론 과제.md",
+                "file": "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
                 "mode": "source",
                 "source": false
               }
@@ -418,7 +418,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/경영조직론 과제.md",
+                "file": "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -435,7 +435,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/경영조직론 과제.md",
+                "file": "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -458,7 +458,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/경영조직론 과제.md"
+                "file": "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md"
               }
             }
           },
@@ -499,8 +499,14 @@
   },
   "active": "88b6c628175be07f",
   "lastOpenFiles": [
-    "private/과제/경영조직론 과제 2.md",
+    "study/ㄱ-정리된 것/책/ddd/도메인 주도 개발 시작하기를 읽고 나서..md",
+    "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
+    "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
+    "study/ㄱ-정리된 것/책/객체지향/객체지향의 사실과 오해.md",
+    "study/ㄱ-정리된 것/책/ddd",
+    "study/ㄱ-정리된 것/책",
     "private/경영조직론 과제.md",
+    "private/과제/경영조직론 과제 2.md",
     "private/운영관리 문제.md",
     "private/과제/무제 파일.md",
     "private/과제/경영조직론 과제 1.md",
@@ -526,10 +532,6 @@
     "private/calendar/2024-11-06 gdsc.md",
     "private/calendar/2024-11-05 gdsc.md",
     "private/calendar/2024-11-07 ddd 스터디.md",
-    "private/calendar/2024-11-05 mysql 책 읽기.md",
-    "private/calendar/2024-11-06 ddd 책 읽기.md",
-    "private/calendar/2024-11-04 gdsc .md",
-    "private/calendar/2024-11-04 블로그 글 .md",
     "screenshot/스크린샷 2024-10-27 오전 5.07.48.png",
     "screenshot/스크린샷 2024-10-22 오후 8.08.11.png",
     "screenshot/스크린샷 2024-10-22 오후 7.40.57.png",
@@ -542,9 +544,7 @@
     "무제 파일.canvas",
     "study/ㄱ - 정리 할 것",
     "private/취업 서류",
-    "study/ㄱ-정리된 것/무제 폴더",
     "private/과제",
-    "private/calendar",
-    "private/calendar/유통관리"
+    "private/calendar"
   ]
 }
