@@ -345,7 +345,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
+                "file": "study/ㄱ-정리된 것/책/ddd/도메인 주도 개발 시작하기를 읽고 나서..md",
                 "mode": "source",
                 "source": false
               }
@@ -418,7 +418,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
+                "file": "study/ㄱ-정리된 것/책/ddd/도메인 주도 개발 시작하기를 읽고 나서..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -435,7 +435,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
+                "file": "study/ㄱ-정리된 것/책/ddd/도메인 주도 개발 시작하기를 읽고 나서..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -458,7 +458,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md"
+                "file": "study/ㄱ-정리된 것/책/ddd/도메인 주도 개발 시작하기를 읽고 나서..md"
               }
             }
           },
@@ -499,11 +499,11 @@
   },
   "active": "88b6c628175be07f",
   "lastOpenFiles": [
-    "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
+    "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
     "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
+    "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "study/ㄱ-정리된 것/블로그/Transaction과 Lock에 대해.md",
     "study/ㄱ-정리된 것/책/ddd/도메인 주도 개발 시작하기를 읽고 나서..md",
-    "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
     "study/ㄱ-정리된 것/책/객체지향/객체지향의 사실과 오해.md",
     "study/ㄱ-정리된 것/책/ddd",
     "study/ㄱ-정리된 것/책",
