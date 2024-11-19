@@ -345,7 +345,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
+                "file": "private/경영조직론.md",
                 "mode": "source",
                 "source": false
               }
@@ -418,7 +418,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
+                "file": "private/경영조직론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -435,7 +435,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
+                "file": "private/경영조직론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -458,7 +458,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md"
+                "file": "private/경영조직론.md"
               }
             }
           },
@@ -499,8 +499,9 @@
   },
   "active": "88b6c628175be07f",
   "lastOpenFiles": [
-    "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
+    "study/ㄱ - 정리 할 것/CI,CD, API, REST API,.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
+    "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
     "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
     "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
     "study/ㄱ-정리된 것/JVM 정리/내가 JVM을 공부하는 이유..md",
@@ -529,7 +530,6 @@
     "study/ㄱ-정리된 것/블로그/JPA - 2 프록시.md",
     "study/ㄱ-정리된 것/블로그/JPA 기본키 생성 전략.md",
     "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
-    "study/ㄱ-정리된 것/블로그/JPA - 1 엔티티 매니저, 영속성 컨텍스트에 대해.md",
     "screenshot/스크린샷 2024-11-04 오후 5.30.46.png",
     "study/프로젝트",
     "screenshot/스크린샷 2024-10-27 오전 5.07.48.png",
