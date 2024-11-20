@@ -345,7 +345,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/발표/Gdg.md",
+                "file": "private/카카오 테크 캠퍼스 스크립트.md",
                 "mode": "source",
                 "source": false
               }
@@ -418,7 +418,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/발표/Gdg.md",
+                "file": "private/카카오 테크 캠퍼스 스크립트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -435,7 +435,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/발표/Gdg.md",
+                "file": "private/카카오 테크 캠퍼스 스크립트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -458,7 +458,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/발표/Gdg.md"
+                "file": "private/카카오 테크 캠퍼스 스크립트.md"
               }
             }
           },
@@ -499,8 +499,8 @@
   },
   "active": "88b6c628175be07f",
   "lastOpenFiles": [
-    "private/카테캠 발표.md",
     "private/발표/Gdg.md",
+    "private/카카오 테크 캠퍼스 스크립트.md",
     "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md",
     "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
     "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
