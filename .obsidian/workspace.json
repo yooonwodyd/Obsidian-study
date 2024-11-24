@@ -415,12 +415,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/발표/카카오 테크 캠퍼스 스크립트.md",
+                "file": "private/발표/Gdg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "카카오 테크 캠퍼스 스크립트"
+              "title": "Gdg"
             }
           }
         ],
@@ -496,7 +496,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/발표/카카오 테크 캠퍼스 스크립트.md",
+                "file": "private/발표/Gdg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -506,7 +506,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "카카오 테크 캠퍼스 스크립트의 백링크"
+              "title": "Gdg의 백링크"
             }
           },
           {
@@ -515,12 +515,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/발표/카카오 테크 캠퍼스 스크립트.md",
+                "file": "private/발표/Gdg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "카카오 테크 캠퍼스 스크립트의 나가는 링크"
+              "title": "Gdg의 나가는 링크"
             }
           },
           {
@@ -542,10 +542,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/발표/카카오 테크 캠퍼스 스크립트.md"
+                "file": "private/발표/Gdg.md"
               },
               "icon": "lucide-list",
-              "title": "카카오 테크 캠퍼스 스크립트 개요"
+              "title": "Gdg 개요"
             }
           },
           {
@@ -587,10 +587,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ed8de0a5f564a53c",
+  "active": "5eacbcefa63ff380",
   "lastOpenFiles": [
-    "private/발표/Gdg.md",
     "private/발표/카카오 테크 캠퍼스 스크립트.md",
+    "private/발표/Gdg.md",
     "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md",
     "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
     "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
