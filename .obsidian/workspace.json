@@ -439,12 +439,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/유통관리 무인매장.md",
+                "file": "private/발표/카카오 테크 캠퍼스 스크립트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "유통관리 무인매장"
+              "title": "카카오 테크 캠퍼스 스크립트"
             }
           }
         ],
@@ -613,6 +613,7 @@
   },
   "active": "c35140d11731044b",
   "lastOpenFiles": [
+    "private/유통관리 무인매장.md",
     "private/유통관리 개인 문제.md",
     "private/유통관리.md",
     "private/운영관리 문제.md",
@@ -639,7 +640,6 @@
     "study/ㄱ-정리된 것/블로그/Connection pool에 대해.md",
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "study/ㄱ-정리된 것/블로그/Transaction과 Lock에 대해.md",
-    "study/ㄱ-정리된 것/책/객체지향/객체지향의 사실과 오해.md",
     "study/ㄱ-정리된 것/책/ddd",
     "study/ㄱ-정리된 것/책",
     "screenshot/스크린샷 2024-11-11 오후 3.12.52.png",
