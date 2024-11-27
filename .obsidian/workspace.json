@@ -446,9 +446,19 @@
               "icon": "lucide-file",
               "title": "다익스트라"
             }
+          },
+          {
+            "id": "14542a9bfbf9e430",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -611,7 +621,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c35140d11731044b",
+  "active": "14542a9bfbf9e430",
   "lastOpenFiles": [
     "private/발표/카카오 테크 캠퍼스 스크립트.md",
     "private/유통관리 무인매장.md",
