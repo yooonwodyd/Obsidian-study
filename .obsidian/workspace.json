@@ -464,9 +464,23 @@
               "icon": "calendar-glyph",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "42b1d9a52a52aec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/good/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
           }
         ],
-        "currentTab": 32
+        "currentTab": 33
       }
     ],
     "direction": "vertical"
@@ -629,14 +643,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "74d5ae03e35a8a2a",
+  "active": "ed8de0a5f564a53c",
   "lastOpenFiles": [
+    "private/calendar/유통관리/1,2장.md",
+    "private/good/1.md",
+    "private/good",
     "private/calendar/2024-12-13 글로벌 경영 보강.md",
     "private/calendar/2024-12-17 1시30분 글로벌 경영 기말고사.md",
     "private/calendar/2024-12-12 Dropbox 글로벌 경영 발표.md",
     "private/calendar/2024-12-17 12시 유통관리 시험.md",
     "private/calendar/유통관리/6장.md",
-    "private/calendar/유통관리/1,2장.md",
     "private/경영과학.md",
     "private/경영조직론.md",
     "private/경영조직론 과제.md",
@@ -656,7 +672,6 @@
     "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
     "private/과제/무제 파일.md",
-    "private/과제/경영조직론 과제 2.md",
     "private/발표",
     "study/ㄱ-정리된 것/책/ddd",
     "study/ㄱ-정리된 것/책",
@@ -676,7 +691,6 @@
     "무제 파일.canvas",
     "study/ㄱ - 정리 할 것",
     "private/취업 서류",
-    "private/과제",
-    "private/calendar"
+    "private/과제"
   ]
 }
