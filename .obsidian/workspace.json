@@ -471,12 +471,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/자료구조 기말.md",
+                "file": "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자료구조 기말"
+              "title": "스프링 MVC에 대해"
             }
           }
         ],
@@ -511,7 +511,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "서블릿",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -532,7 +532,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -645,8 +646,8 @@
   },
   "active": "42b1d9a52a52aec3",
   "lastOpenFiles": [
-    "private/경영조직론.md",
     "private/자료구조 기말.md",
+    "private/경영조직론.md",
     "private/good/1.md",
     "private/calendar/유통관리/1,2장.md",
     "private/good",
