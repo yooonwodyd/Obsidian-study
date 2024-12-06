@@ -478,9 +478,23 @@
               "icon": "lucide-file",
               "title": "스프링 MVC에 대해"
             }
+          },
+          {
+            "id": "0ae89b4712e31cab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/good/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
           }
         ],
-        "currentTab": 32
+        "currentTab": 34
       }
     ],
     "direction": "vertical"
@@ -511,7 +525,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "서블릿",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -532,8 +546,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -644,8 +657,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "74d5ae03e35a8a2a",
+  "active": "0ae89b4712e31cab",
   "lastOpenFiles": [
+    "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
+    "private/calendar/2024-12-18 경영조직론 기말고사.md",
     "private/자료구조 기말.md",
     "private/경영조직론.md",
     "private/good/1.md",
@@ -671,8 +686,6 @@
     "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
     "study/ㄱ-정리된 것/JVM 정리/내가 JVM을 공부하는 이유..md",
     "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
-    "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
-    "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
     "private/발표",
     "study/ㄱ-정리된 것/책/ddd",
     "study/ㄱ-정리된 것/책",
