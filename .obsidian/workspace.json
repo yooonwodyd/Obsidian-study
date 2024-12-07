@@ -456,16 +456,6 @@
             }
           },
           {
-            "id": "74d5ae03e35a8a2a",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "42b1d9a52a52aec3",
             "type": "leaf",
             "state": {
@@ -491,6 +481,16 @@
               },
               "icon": "lucide-file",
               "title": "1"
+            }
+          },
+          {
+            "id": "d651a5dd43ba4c58",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
         ],
@@ -657,7 +657,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0ae89b4712e31cab",
+  "active": "d651a5dd43ba4c58",
   "lastOpenFiles": [
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "private/calendar/2024-12-18 경영조직론 기말고사.md",
