@@ -498,16 +498,6 @@
             }
           },
           {
-            "id": "32f45c1ffd0109b4",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "5993219c11c699e3",
             "type": "leaf",
             "state": {
@@ -533,6 +523,16 @@
               },
               "icon": "lucide-file",
               "title": "dropbox 발표"
+            }
+          },
+          {
+            "id": "14ae178d76937f34",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
         ],
@@ -699,7 +699,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3ec360ef1712b89d",
+  "active": "14ae178d76937f34",
   "lastOpenFiles": [
     "private/자료구조 기말.md",
     "private/발표/dropbox 발표.md",
