@@ -529,10 +529,14 @@
             "id": "14ae178d76937f34",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "type": "markdown",
+              "state": {
+                "file": "private/calendar/2024-12-17 12시 유통관리 시험.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-17 12시 유통관리 시험"
             }
           }
         ],
@@ -701,8 +705,8 @@
   },
   "active": "14ae178d76937f34",
   "lastOpenFiles": [
-    "private/자료구조 기말.md",
     "private/발표/dropbox 발표.md",
+    "private/자료구조 기말.md",
     "private/good/1.md",
     "private/good/12월 10일.md",
     "private/경영조직론 과제.md",
