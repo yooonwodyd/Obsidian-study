@@ -538,9 +538,19 @@
               "icon": "lucide-file",
               "title": "2024-12-17 12시 유통관리 시험"
             }
+          },
+          {
+            "id": "770404369840cb2c",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 37
+        "currentTab": 38
       }
     ],
     "direction": "vertical"
@@ -703,7 +713,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "14ae178d76937f34",
+  "active": "770404369840cb2c",
   "lastOpenFiles": [
     "private/발표/dropbox 발표.md",
     "private/자료구조 기말.md",
