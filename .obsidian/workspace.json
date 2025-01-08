@@ -555,12 +555,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/good/gosi.md",
+                "file": "private/gdsc/면접.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gosi"
+              "title": "면접"
             }
           }
         ],
@@ -729,8 +729,12 @@
   },
   "active": "114b3d8918867887",
   "lastOpenFiles": [
-    "private/good/1.md",
+    "private/gdsc 면접.md",
+    "private/gdsc/면접.md",
+    "private/gdsc",
+    "private/무제 파일.md",
     "private/good/gosi.md",
+    "private/good/1.md",
     "private/good/12월 10일.md",
     "private/calendar/2024-12-17 12시 유통관리 시험.md",
     "private/발표/dropbox 발표.md",
@@ -753,9 +757,6 @@
     "private/asdf.md",
     "private/장쉐린 가이드.md",
     "private/유통관리 무인매장.md",
-    "private/유통관리 개인 문제.md",
-    "private/발표/Gdg.md",
-    "private/발표/카카오 테크 캠퍼스 스크립트.md",
     "private/발표",
     "study/ㄱ-정리된 것/책/ddd",
     "study/ㄱ-정리된 것/책",
@@ -774,7 +775,6 @@
     "screenshot/스크린샷 2024-10-16 오후 11.17.07.png",
     "무제 파일.canvas",
     "study/ㄱ - 정리 할 것",
-    "private/취업 서류",
-    "private/과제"
+    "private/취업 서류"
   ]
 }
