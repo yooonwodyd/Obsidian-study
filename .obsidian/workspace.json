@@ -555,12 +555,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/gdsc/면접.md",
+                "file": "private/gdsc/배준호.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "면접"
+              "title": "배준호"
             }
           }
         ],
@@ -729,8 +729,10 @@
   },
   "active": "114b3d8918867887",
   "lastOpenFiles": [
+    "private/gdsc/면접 이도훈.md",
+    "private/gdsc/배준호.md",
+    "private/gdsc/면접 장보형.md",
     "private/gdsc 면접.md",
-    "private/gdsc/면접.md",
     "private/gdsc",
     "private/무제 파일.md",
     "private/good/gosi.md",
@@ -755,8 +757,6 @@
     "private/글로벌 경영 과제.md",
     "private/auto commit?.md",
     "private/asdf.md",
-    "private/장쉐린 가이드.md",
-    "private/유통관리 무인매장.md",
     "private/발표",
     "study/ㄱ-정리된 것/책/ddd",
     "study/ㄱ-정리된 것/책",
