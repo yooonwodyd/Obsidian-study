@@ -562,9 +562,21 @@
               "icon": "lucide-file",
               "title": "졸업요건 현황"
             }
+          },
+          {
+            "id": "8b946fbe27f8f835",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 39
+        "currentTab": 40
       }
     ],
     "direction": "vertical"
@@ -583,7 +595,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -717,17 +730,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "114b3d8918867887",
+  "active": "8b946fbe27f8f835",
   "lastOpenFiles": [
     "private/gdsc/면접 배준호.md",
     "private/gdsc/면접 장보형.md",
