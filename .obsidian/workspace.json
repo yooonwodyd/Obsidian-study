@@ -567,12 +567,14 @@
             "id": "8b946fbe27f8f835",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "private/good/gosi 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "gosi 1"
             }
           }
         ],
@@ -742,6 +744,11 @@
   },
   "active": "8b946fbe27f8f835",
   "lastOpenFiles": [
+    "private/good/gosi.md",
+    "private/good/gosi 1.md",
+    "private/경영과학.md",
+    "private/good/12월 10일.md",
+    "private/good/1.md",
     "private/gdsc/면접 배준호.md",
     "private/gdsc/면접 장보형.md",
     "private/gdsc/면접 이도훈.md",
@@ -750,9 +757,6 @@
     "private/gdsc 면접.md",
     "private/gdsc",
     "private/무제 파일.md",
-    "private/good/gosi.md",
-    "private/good/1.md",
-    "private/good/12월 10일.md",
     "private/calendar/2024-12-17 12시 유통관리 시험.md",
     "private/발표/dropbox 발표.md",
     "private/자료구조 기말.md",
@@ -766,10 +770,8 @@
     "private/calendar/2024-12-17 1시30분 글로벌 경영 기말고사.md",
     "private/calendar/2024-12-12 Dropbox 글로벌 경영 발표.md",
     "private/calendar/유통관리/6장.md",
-    "private/경영과학.md",
     "private/운영관리 문제.md",
     "private/운영관리.md",
-    "private/글로벌 경영 과제.md",
     "private/발표",
     "study/ㄱ-정리된 것/책/ddd",
     "study/ㄱ-정리된 것/책",
