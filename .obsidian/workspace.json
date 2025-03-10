@@ -583,12 +583,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/조직행위론/조직 행위론 1.md",
+                "file": "private/조직행위론/조직행위론 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "조직 행위론 1"
+              "title": "조직행위론 2"
             }
           }
         ],
@@ -649,8 +649,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b284abfb00543c0a",
@@ -666,7 +665,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/조직행위론/조직 행위론 1.md",
+                "file": "private/조직행위론/조직행위론 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -676,7 +675,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "조직 행위론 1 의 백링크"
+              "title": "조직행위론 2 의 백링크"
             }
           },
           {
@@ -759,8 +758,8 @@
   },
   "active": "ebf6d3fe53a121cc",
   "lastOpenFiles": [
-    "private/조직행위론/조직행위론 2.md",
     "private/조직행위론/조직 행위론 1.md",
+    "private/조직행위론/조직행위론 2.md",
     "screenshot/스크린샷 2025-03-07 오후 6.35.09.png",
     "screenshot/스크린샷 2025-03-07 오후 6.18.31.png",
     "private/조직행위론",
