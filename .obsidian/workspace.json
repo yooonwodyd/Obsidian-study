@@ -583,12 +583,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/good/ㅎㄹ.md",
+                "file": "private/조직행위론/조직행위론 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ㅎㄹ"
+              "title": "조직행위론 3"
             }
           }
         ],
@@ -758,8 +758,10 @@
   },
   "active": "ebf6d3fe53a121cc",
   "lastOpenFiles": [
-    "private/good/gosi.md",
+    "private/good/1.md",
+    "private/good/1장 정리.md",
     "private/good/ㅎㄹ.md",
+    "private/good/gosi.md",
     "private/good/ggg.md",
     "private/good/gosi 1.md",
     "private/good/aa.md",
@@ -777,14 +779,12 @@
     "screenshot/스크린샷 2025-03-20 오후 6.36.03.png",
     "screenshot/스크린샷 2025-03-20 오후 6.30.19.png",
     "screenshot/스크린샷 2025-03-20 오후 6.26.54.png",
-    "private/good/1장 정리.md",
     "study/ㄱ-정리된 것/책/객체지향/객체지향의 사실과 오해.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
     "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
     "study/ㄱ-정리된 것/JVM 정리/바이트 코드로 다시 보는 자바.md",
     "study/ㄱ-정리된 것/JVM 정리/내가 JVM을 공부하는 이유..md",
-    "private/good/1.md",
     "private/조직행위론/조직행위론 3.md",
     "private/good/12월 10일.md",
     "private/calendar/gdsc/no.md",
