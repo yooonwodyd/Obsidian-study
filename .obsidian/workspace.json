@@ -583,12 +583,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/조직행위론/조직행위론 4.md",
+                "file": "private/조직행위론/조직행위론 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "조직행위론 4"
+              "title": "조직행위론 3"
             }
           }
         ],
@@ -665,7 +665,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/조직행위론/조직행위론 4.md",
+                "file": "private/조직행위론/조직행위론 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -675,7 +675,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "조직행위론 4 의 백링크"
+              "title": "조직행위론 3 의 백링크"
             }
           },
           {
@@ -758,11 +758,11 @@
   },
   "active": "ebf6d3fe53a121cc",
   "lastOpenFiles": [
+    "private/조직행위론/조직행위론 4.md",
     "screenshot/스크린샷 2025-03-24 오후 2.42.01.png",
     "screenshot/스크린샷 2025-03-24 오후 2.21.09.png",
     "screenshot/스크린샷 2025-03-24 오후 1.54.22.png",
     "private/조직행위론/조직행위론 3.md",
-    "private/조직행위론/조직행위론 4.md",
     "private/good/1.md",
     "private/good/1장 정리.md",
     "private/good/ㅎㄹ.md",
@@ -781,7 +781,6 @@
     "screenshot/스크린샷 2025-03-20 오후 6.52.32.png",
     "screenshot/스크린샷 2025-03-20 오후 6.52.22.png",
     "screenshot/스크린샷 2025-03-20 오후 6.52.11.png",
-    "screenshot/스크린샷 2025-03-20 오후 6.36.03.png",
     "study/ㄱ-정리된 것/책/객체지향/객체지향의 사실과 오해.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
