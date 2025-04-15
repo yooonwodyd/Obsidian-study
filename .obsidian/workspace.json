@@ -611,12 +611,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/취업 서류/라인 서류.md",
+                "file": "study/ㄱ-정리된 것/알고리즘/다익스트라.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "라인 서류"
+              "title": "다익스트라"
             }
           }
         ],
@@ -677,7 +677,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b284abfb00543c0a",
@@ -786,8 +787,8 @@
   },
   "active": "7310c7e1c772f7ae",
   "lastOpenFiles": [
-    "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md",
     "private/취업 서류/라인 서류.md",
+    "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md",
     "study/ㄱ-정리된 것/JVM 정리/정리 글.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM의 역사.md",
