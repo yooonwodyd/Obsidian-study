@@ -618,9 +618,33 @@
               "icon": "lucide-file",
               "title": "Union Find Algorithm"
             }
+          },
+          {
+            "id": "02ef594166d5f2a9",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "83555e61c0578350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/조직행위론/조직행위론 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "조직행위론 7"
+            }
           }
         ],
-        "currentTab": 43
+        "currentTab": 45
       }
     ],
     "direction": "vertical"
@@ -784,8 +808,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7310c7e1c772f7ae",
+  "active": "83555e61c0578350",
   "lastOpenFiles": [
+    "study/ㄱ-정리된 것/알고리즘/Union Find Algorithm.md",
+    "private/조직행위론/조직행위론 7.md",
+    "private/calendar/2025-04-21 조직행위론 중간고사.md",
+    "private/calendar/2025-04-22 금융기곤 경영론 시험 오후 7시.md",
     "private/취업 서류/라인 서류.md",
     "study/ㄱ-정리된 것/알고리즘/다익스트라.md",
     "study/ㄱ-정리된 것/자바 정리/JVM에서 객체를 어떻게 생성하는가?.md",
@@ -814,14 +842,10 @@
     "screenshot/스크린샷 2025-04-03 오후 8.05.53.png",
     "screenshot/스크린샷 2025-04-03 오후 8.05.46.png",
     "private/good/과제 제출.md",
-    "study/ㄱ-정리된 것/알고리즘/Union Find Algorithm.md",
     "private/calendar/2024-12-17 12시 유통관리 시험.md",
     "private/calendar/2025-04-17 수업 x sw 과제.md",
     "private/calendar/2025-04-24 sw코딩 시험 + 수업함.md",
     "private/조직행위론/조직행위론 5.md",
-    "private/조직행위론/조직 행위론 1.md",
-    "private/조직행위론/조직행위론 4.md",
-    "private/조직행위론/조직행위론 3.md",
     "private/조직행위론",
     "private/calendar/gdsc",
     "private/good",
