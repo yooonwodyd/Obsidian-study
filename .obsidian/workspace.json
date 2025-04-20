@@ -663,12 +663,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/ㄱ-정리된 것/알고리즘/알고리즘.md",
+                "file": "study/ㄱ-정리된 것/알고리즘/다익스트라.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "알고리즘"
+              "title": "다익스트라"
             }
           }
         ],
@@ -838,8 +838,8 @@
   },
   "active": "c06c9100ac4cf825",
   "lastOpenFiles": [
-    "study/ㄱ-정리된 것/알고리즘/위상정렬.md",
     "study/ㄱ-정리된 것/알고리즘/알고리즘.md",
+    "study/ㄱ-정리된 것/알고리즘/위상정렬.md",
     "study/ㄱ-정리된 것/알고리즘/Union Find Algorithm.md",
     "2025-04-17.md",
     "private/calendar/2025-04-22 금융기관 경영론 시험 오후 7시.md",
