@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "조직행위론 8"
             }
+          },
+          {
+            "id": "f3edff14fa00cee2",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "a6ca93bb8039ed7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/토익/토익 리스닝.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "토익 리스닝"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,11 +210,25 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "46b38328075e2c0e",
+  "active": "a6ca93bb8039ed7d",
   "lastOpenFiles": [
+    "private/조직행위론/조직행위론 8.md",
+    "private/토익/토익 리스닝.md",
+    "private/calendar/2025-05-05 한국사 강의 1시간.md",
+    "private/calendar/2025-05-04 한국사 강의 1시간.md",
+    "private/calendar/2025-05-05 리스닝 시험.md",
+    "private/calendar/2025-05-04 리딩 시험.md",
+    "private/한국사",
+    "private/토익",
+    "private/calendar/2025-05-03 한국사 강의 2시간.md",
+    "private/calendar/2025-05-03 리스닝 2시간.md",
+    "private/calendar/2025-05-24 한국사 시험날짜.md",
+    "private/calendar/2025-05-02 한국사 강의 2시간.md",
+    "private/calendar/2025-05-02 리딩 2시간.md",
+    "private/calendar/2025-05-01 한국사 강의 2시간.md",
+    "private/calendar/2025-05-01 리스닝 2시간.md",
     "screenshot/스크린샷 2025-04-28 오후 2.28.41.png",
     "private/calendar/2024-10-24 유통관리 시험 확정.md",
-    "private/조직행위론/조직행위론 8.md",
     "private/good/aa.md",
     "2025-04-17.md",
     "private/조직행위론/조직행위론 7.md",
@@ -202,17 +241,6 @@
     "private/자료구조 기말.md",
     "private/good/1.md",
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
-    "private/calendar/유통관리/1,2장.md",
-    "private/경영조직론 과제.md",
-    "private/유통관리 무인매장.md",
-    "private/발표/카카오 테크 캠퍼스 스크립트.md",
-    "private/경영조직론.md",
-    "study/ㄱ-정리된 것/블로그/JPA - 2 프록시.md",
-    "study/ㄱ-정리된 것/블로그/JPA - 3  N + 1 문제.md",
-    "private/글로벌 경영.md",
-    "private/calendar/2024-10-30 자료구조 시험.md",
-    "private/자본시장론/자본 시장론 10월 21일.md",
-    "private/calendar/2024-10-29 자본시장론 시험.md",
     "screenshot/스크린샷 2025-04-13 오후 12.52.24.png",
     "screenshot/스크린샷 2025-04-07 오후 2.15.09.png",
     "screenshot/스크린샷 2025-04-07 오후 2.10.29.png",
@@ -222,7 +250,6 @@
     "screenshot/스크린샷 2025-04-03 오후 8.06.06.png",
     "screenshot/스크린샷 2025-04-03 오후 8.06.01.png",
     "screenshot/스크린샷 2025-04-03 오후 8.05.53.png",
-    "screenshot/스크린샷 2025-04-03 오후 8.05.46.png",
     "private/조직행위론",
     "private/calendar/gdsc",
     "private/good",
@@ -231,8 +258,6 @@
     "study/ㄱ-정리된 것/책",
     "study/프로젝트",
     "private/자본시장론",
-    "private/무제 폴더",
-    "무제 파일.canvas",
-    "study/ㄱ - 정리 할 것"
+    "무제 파일.canvas"
   ]
 }
