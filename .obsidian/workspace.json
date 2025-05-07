@@ -44,9 +44,29 @@
               "icon": "lucide-file",
               "title": "유통관리"
             }
+          },
+          {
+            "id": "143b988f194052c3",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "817367b66388248d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -207,11 +227,13 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "publish:변경사항 게재": false
     }
   },
-  "active": "a6ca93bb8039ed7d",
+  "active": "817367b66388248d",
   "lastOpenFiles": [
+    "private/유통관리.md",
     "private/경영조직론.md",
     "private/경영과학.md",
     "private/토익/토익 리스닝.md",
@@ -240,7 +262,6 @@
     "private/취업 서류/졸업요건 현황.md",
     "private/calendar/2024-12-17 12시 유통관리 시험.md",
     "private/발표/dropbox 발표.md",
-    "private/자료구조 기말.md",
     "screenshot/스크린샷 2025-04-13 오후 12.52.24.png",
     "screenshot/스크린샷 2025-04-07 오후 2.15.09.png",
     "screenshot/스크린샷 2025-04-07 오후 2.10.29.png",
