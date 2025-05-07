@@ -64,9 +64,33 @@
               "icon": "lucide-git-fork",
               "title": "그래프 뷰"
             }
+          },
+          {
+            "id": "57fec826da8c3dce",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e22887f365889459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/조직행위론/조직행위론 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "조직행위론 8"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -210,13 +234,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "cc1b8238819fd288",
+            "type": "leaf",
+            "state": {
+              "type": "bookshelf-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Bookshelf View"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 676.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,41 +261,40 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "publish:변경사항 게재": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "817367b66388248d",
+  "active": "e22887f365889459",
   "lastOpenFiles": [
-    "private/유통관리.md",
+    "private/조직행위론/조직행위론 7.md",
     "private/경영조직론.md",
+    "private/취업 서류/우테코 서류.md",
+    "private/조직행위론/조직 행위론 1.md",
+    "study/ㄱ-정리된 것/블로그/ID를 사용한 애그리거트 참조.md",
+    "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
+    "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
+    "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
+    "study/ㄱ-정리된 것/기본 CS/기본 CS 모음.md",
+    "study/ㄱ - 정리 할 것/CI,CD, API, REST API,.md",
+    "study/ㄱ - 정리 할 것/자료구조.md",
+    "study/ㄱ-정리된 것/블로그/Transaction과 Lock에 대해.md",
+    "study/ㄱ-정리된 것/스프링/DelegatingFilterProxy와 FilterChainProxy.md",
+    "study/ㄱ-정리된 것/알고리즘/다익스트라.md",
+    "study/ㄱ-정리된 것/알고리즘/Union Find Algorithm.md",
+    "study/ㄱ-정리된 것/알고리즘/위상정렬.md",
+    "study/ㄱ-정리된 것/책/객체지향/객체지향의 사실과 오해.md",
+    "study/ㄱ-정리된 것/자바 정리/Enum.md",
+    "study/ㄱ-정리된 것/블로그/무제 파일.md",
+    "study/ㄱ-정리된 것/SQL/SQL 옵티마이저 - 1.md",
+    "study/ㄱ-정리된 것/블로그/JPA - 3  N + 1 문제.md",
+    "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
+    "study/ㄱ-정리된 것/JVM 정리/내가 JVM을 공부하는 이유..md",
+    "study/ㄱ-정리된 것/블로그/JPA 기본키 생성 전략.md",
+    "private/유통관리.md",
     "private/경영과학.md",
-    "private/토익/토익 리스닝.md",
-    "private/조직행위론/조직행위론 8.md",
-    "private/calendar/2025-05-05 한국사 강의 1시간.md",
-    "private/calendar/2025-05-04 한국사 강의 1시간.md",
-    "private/calendar/2025-05-05 리스닝 시험.md",
-    "private/calendar/2025-05-04 리딩 시험.md",
     "private/한국사",
     "private/토익",
-    "private/calendar/2025-05-03 한국사 강의 2시간.md",
-    "private/calendar/2025-05-03 리스닝 2시간.md",
-    "private/calendar/2025-05-24 한국사 시험날짜.md",
-    "private/calendar/2025-05-02 한국사 강의 2시간.md",
-    "private/calendar/2025-05-02 리딩 2시간.md",
-    "private/calendar/2025-05-01 한국사 강의 2시간.md",
-    "private/calendar/2025-05-01 리스닝 2시간.md",
     "screenshot/스크린샷 2025-04-28 오후 2.28.41.png",
-    "private/calendar/2024-10-24 유통관리 시험 확정.md",
-    "private/good/aa.md",
-    "2025-04-17.md",
-    "private/조직행위론/조직행위론 7.md",
-    "study/ㄱ-정리된 것/알고리즘/Union Find Algorithm.md",
-    "study/ㄱ-정리된 것/알고리즘/다익스트라.md",
-    "private/조직행위론/조직행위론 개인과제.md",
-    "private/취업 서류/졸업요건 현황.md",
-    "private/calendar/2024-12-17 12시 유통관리 시험.md",
-    "private/발표/dropbox 발표.md",
     "screenshot/스크린샷 2025-04-13 오후 12.52.24.png",
     "screenshot/스크린샷 2025-04-07 오후 2.15.09.png",
     "screenshot/스크린샷 2025-04-07 오후 2.10.29.png",
