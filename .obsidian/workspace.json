@@ -88,9 +88,19 @@
               "icon": "lucide-file",
               "title": "DIP"
             }
+          },
+          {
+            "id": "adb8b4c4542e68cb",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -234,44 +244,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "cc1b8238819fd288",
-            "type": "leaf",
-            "state": {
-              "type": "bookshelf-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Bookshelf View"
-            }
-          },
-          {
-            "id": "9e4d84e6fe873141",
-            "type": "leaf",
-            "state": {
-              "type": "bookshelf-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Bookshelf View"
-            }
-          },
-          {
-            "id": "b2abcd10c52d5abd",
-            "type": "leaf",
-            "state": {
-              "type": "bookshelf-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Bookshelf View"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 568.5,
-    "collapsed": true
+    "width": 802.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,8 +264,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e22887f365889459",
+  "active": "0916772faa2e0289",
   "lastOpenFiles": [
+    "study/ㄱ - 정리 할 것/DIP.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
     "private/발표/Gdg.md",
     "private/무제 폴더/일정관리.md",
@@ -315,7 +295,6 @@
     "study/ㄱ-정리된 것/블로그/스프링 MVC에 대해.md",
     "study/ㄱ-정리된 것/블로그/도메인, 모델, 엔티티에 대해.md",
     "study/ㄱ-정리된 것/기본 CS/자료구조-2.md",
-    "study/ㄱ-정리된 것/기본 CS/기본 CS 모음.md",
     "private/한국사",
     "private/토익",
     "screenshot/스크린샷 2025-04-28 오후 2.28.41.png",
