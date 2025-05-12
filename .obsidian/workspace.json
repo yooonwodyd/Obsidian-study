@@ -264,7 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 202.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,7 +278,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "fb1dbe55ab6364f2",
+  "active": "925839cb7a697866",
   "lastOpenFiles": [
     "private/조직행위론/조직행위론 9.md",
     "private/조직행위론/조직행위론 10.md",
