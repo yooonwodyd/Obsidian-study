@@ -105,12 +105,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/조직행위론/조직행위론 10.md",
+                "file": "private/자격증/한국사/전체분석.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "조직행위론 10"
+              "title": "전체분석"
             }
           }
         ],
@@ -258,13 +258,24 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "18955dd1b11051ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookshelf-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Bookshelf View"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 814.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,11 +291,14 @@
   },
   "active": "fb1dbe55ab6364f2",
   "lastOpenFiles": [
+    "private/조직행위론/조직행위론 10.md",
+    "private/자격증/한국사/전체분석.md",
+    "private/자격증/한국사",
+    "private/자격증",
     "private/조직행위론/조직행위론 4.md",
     "private/조직행위론/조직행위론 3.md",
     "private/조직행위론/조직행위론 9.md",
     "private/조직행위론/조직행위론 2.md",
-    "private/조직행위론/조직행위론 10.md",
     "private/조직행위론/조직행위론 8.md",
     "private/조직행위론/조직행위론 7.md",
     "private/조직행위론/조직행위론 6.md",
@@ -310,7 +324,6 @@
     "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
     "study/ㄱ-정리된 것/블로그/JPA 기본키 생성 전략.md",
     "study/ㄱ-정리된 것/스프링/DelegatingFilterProxy와 FilterChainProxy.md",
-    "study/ㄱ-정리된 것/알고리즘/다익스트라.md",
     "screenshot/스크린샷 2025-05-07 오후 2.17.17.png",
     "screenshot/스크린샷 2025-05-07 오후 2.16.53.png",
     "screenshot/스크린샷 2025-05-07 오후 1.56.47.png",
@@ -324,8 +337,6 @@
     "private/발표",
     "study/ㄱ-정리된 것/책/ddd",
     "study/ㄱ-정리된 것/책",
-    "study/프로젝트",
-    "private/자본시장론",
     "무제 파일.canvas"
   ]
 }
