@@ -268,14 +268,23 @@
               "icon": "lucide-file",
               "title": "Bookshelf View"
             }
+          },
+          {
+            "id": "e104210d29a10e91",
+            "type": "leaf",
+            "state": {
+              "type": "bookshelf-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Bookshelf View"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 814.5,
-    "collapsed": true
+    "width": 814.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,7 +298,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "fb1dbe55ab6364f2",
+  "active": "e104210d29a10e91",
   "lastOpenFiles": [
     "private/조직행위론/조직행위론 10.md",
     "private/자격증/한국사/전체분석.md",
