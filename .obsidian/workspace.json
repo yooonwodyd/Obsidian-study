@@ -105,12 +105,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/자격증/한국사/전체분석.md",
+                "file": "private/발표/무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "전체분석"
+              "title": "무제"
             }
           }
         ],
@@ -284,7 +284,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 814.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,10 +299,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e104210d29a10e91",
+  "active": "fb1dbe55ab6364f2",
   "lastOpenFiles": [
-    "private/조직행위론/조직행위론 10.md",
+    "private/발표/카카오 테크 캠퍼스 스크립트.md",
+    "private/발표/Gdg.md",
+    "private/영어/영어 문장 모음.md",
+    "private/발표/무제.md",
+    "private/영어",
     "private/자격증/한국사/전체분석.md",
+    "private/조직행위론/조직행위론 10.md",
     "private/자격증/한국사",
     "private/자격증",
     "private/조직행위론/조직행위론 4.md",
@@ -324,15 +330,11 @@
     "screenshot/스크린샷 2025-05-12 오후 1.57.55.png",
     "study/ㄱ - 정리 할 것/DIP.md",
     "study/ㄱ-정리된 것/JVM 정리/JVM 이란 무엇인가?.md",
-    "private/발표/Gdg.md",
     "private/무제 폴더/일정관리.md",
     "private/무제 폴더/영어단어.md",
     "private/과제/경영조직론 과제 1.md",
     "private/good/logl.md",
     "private/글로벌 경영 과제.md",
-    "study/ㄱ-정리된 것/블로그/Oauth2 + JWT 로그인시 생길 수 있는 문제점.md",
-    "study/ㄱ-정리된 것/블로그/JPA 기본키 생성 전략.md",
-    "study/ㄱ-정리된 것/스프링/DelegatingFilterProxy와 FilterChainProxy.md",
     "screenshot/스크린샷 2025-05-07 오후 2.17.17.png",
     "screenshot/스크린샷 2025-05-07 오후 2.16.53.png",
     "screenshot/스크린샷 2025-05-07 오후 1.56.47.png",
@@ -345,7 +347,6 @@
     "private/good",
     "private/발표",
     "study/ㄱ-정리된 것/책/ddd",
-    "study/ㄱ-정리된 것/책",
     "무제 파일.canvas"
   ]
 }
