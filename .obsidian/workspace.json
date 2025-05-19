@@ -105,12 +105,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/조직행위론/조직행위론 12.md",
+                "file": "private/자격증/한국사/전체분석.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "조직행위론 12"
+              "title": "전체분석"
             }
           }
         ],
@@ -301,8 +301,8 @@
   },
   "active": "fb1dbe55ab6364f2",
   "lastOpenFiles": [
-    "private/조직행위론/조직행위론 11.md",
     "private/조직행위론/조직행위론 12.md",
+    "private/조직행위론/조직행위론 11.md",
     "private/조직행위론/조직행위론 10.md",
     "private/발표/무제.md",
     "private/발표/카카오 테크 캠퍼스 스크립트.md",
