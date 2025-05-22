@@ -1,7 +1,8 @@
 {
   "shelves": [
     "study",
-    "private"
+    "private",
+    "한국사"
   ],
   "fileToShelf": {
     "study/체스.md": "study",

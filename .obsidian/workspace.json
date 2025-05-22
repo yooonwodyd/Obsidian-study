@@ -282,9 +282,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "539321cf942043ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookshelf-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Bookshelf View"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
