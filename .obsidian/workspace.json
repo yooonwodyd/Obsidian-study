@@ -292,9 +292,19 @@
               "icon": "lucide-file",
               "title": "Bookshelf View"
             }
+          },
+          {
+            "id": "efaaeea130f67c11",
+            "type": "leaf",
+            "state": {
+              "type": "bookshelf-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Bookshelf View"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
